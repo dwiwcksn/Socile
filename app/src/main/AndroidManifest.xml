@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wicak.socile">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Socile">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"/>
+        <activity android:name=".ui.materi.majapahit.MateriKeenam" />
+        <activity android:name=".ui.materi.singasari.MateriKelima" />
+        <activity android:name=".ui.materi.kediri.MateriEmpat" />
+        <activity android:name=".ui.materi.mataram.MateriTiga" />
+        <activity android:name=".ui.materi.tarumanegara.MateriDua" />
+        <activity android:name=".ui.materi.kutai.MateriSatu" />
+        <activity
+            android:name=".ui.materi.kutai.Tabskutai"
+            android:label="Kutai"
+            android:parentActivityName=".ui.materi.kutai.Tabskutai"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ui.materi.tarumanegara.Tabstarumanegara"
+            android:parentActivityName=".ui.materi.tarumanegara.Tabstarumanegara"
+            android:label="Tarumanegara"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ui.materi.mataram.Tabsmataram"
+            android:parentActivityName=".ui.materi.mataram.Tabsmataram"
+            android:label="Mataram"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ui.materi.kediri.Tabskediri"
+            android:parentActivityName=".ui.materi.kediri.Tabskediri"
+            android:label="Kediri"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ui.materi.singasari.Tabsingasari"
+            android:parentActivityName=".ui.materi.singasari.Tabsingasari"
+            android:label="Singasari"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ui.materi.majapahit.Tabsmajapahit"
+            android:parentActivityName=".ui.materi.majapahit.Tabsmajapahit"
+            android:label="Majapahit"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity android:name=".ui.quiz.HasilKuis" />
+        <activity android:name=".ui.quiz.MulaiKuis" />
+        <activity
+            android:name=".BottomActivity"
+            android:label="@string/title_activity_bottom" />
+        <activity
+            android:name=".SplashScreen"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
