@@ -118,15 +118,6 @@
                     <TableRow
                         android:padding="3dip"
                         android:layout_marginBottom="16dp">
-                        <TextView
-                            android:text="Koneksi"
-                            android:textColor="@color/color_dark"
-                            android:layout_weight="1"
-                            android:gravity="start" />
-                        <TextView
-                            android:text="4G / WIfi"
-                            android:layout_weight="1"
-                            android:gravity="start" />
 
                     </TableRow>
 
