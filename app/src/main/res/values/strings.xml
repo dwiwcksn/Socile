@@ -5,8 +5,8 @@
     <string name="title_kuis">Kuis</string>
     <string name="title_info">Info</string>
     Sejarah
-    <string name="sejarahkutai">Kutai blablablabla\nkutai blbalba<b><i>long</i></b></string>
-    <string name="sejarahkediri">Info</string>
+    <string name="sejarahkutai">Kerajaan Kutai berdiri pada tahun 400 Masehi, kerajaan ini adalah kerajaan Hindu tertua di Indonesia.\nKerajaan Kutai terletak di Pulau Kalimantan, tepatnya di tepi Sungai Mahakam, Kabupaten Muarakaman, Kalimantan Timur</string>
+    <string name="sejarahkediri"></string>
     <string name="sejarahmajapahit">Info</string>
     <string name="sejarahmataram">Info</string>
     <string name="sejarahsingasari">Info</string>
@@ -38,7 +38,7 @@
     <string name="tujuan_hero">Tujuan Penggunaan Aplikasi</string>
     <string name="des_tujuan_hero">1. Mempermudah Proses Pembelajaran\n2. Meningkatkan Efisiensi Proses Pembelajaran\n3. Menjadi Media Belajar Mandiri</string>
     <string name="kompetensi">Kerajaan Hindu</string>
-    <string name="kompetensi_hand_tools">Kerajaan Hindu adalah blablabla</string>
+    <string name="kerajaanhindu">Kerajaan Hindu adalah blablabla</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
@@ -55,9 +55,9 @@
     <string name="penggunaan_kunciallen">1. Pilih ukuran kunci sesuai ukuran dan jenis tengah kepala baut\n2. Pasang kunci pada bagian tengah kepala baut sampai pas\n3. Tarik kunci ke arah ke kanan untuk melepaskan dan arah sebaliknya untuk memasang\n</string>
 
     <string name="kunciallen"><b>KUNCI ALLEN <i>(Allens Keys)</i></b></string>
-    <string name="Kutai"><b>Kerajaan Kutai <i>Kutai</i></b></string>
+    <string name="Kutai">Kerajaan Kutai</string>
     <string name="info_des">Spesifikasi Minimum</string>
-    <string name="info_menu">1. Menu Awal/<i>home</i>\nMenu ini berisi penjelasan <i>Hand Tools</i> dan tujuan penggunaan aplikasi PLITO\n \n2. Menu Materi\nMenu ini berisi materi lengkap <i>Hand Tools</i> beserta video penggunaanya.\nMateri yang disajikan diantaranya:\na. Kunci\nb. Palu\nc. Obeng\nd.Tang\ne. Tambahan <i>(Additional)</i>\n \n3. Menu Kuis\nMenu ini berisi pertanyaan untuk menguji tingkat pemahaman siswa pada kompetensi <i>Hand Tools</i>. Ada 10 soal kuis yang disediakan.\n \n4. Menu Info\nMenu ini berisi informasi spesifikasi minimum aplikasi, penjelasan menu, cara pengerjaan kuis, dan informasi pengembang.</string>
+    <string name="info_menu">1. Menu Awal/<i>home</i>\nMenu ini berisi penjelasan <i>Kerajaan Hindu</i> dan tujuan penggunaan aplikasi Social Learning\n \n2. Menu Materi\nMenu ini berisi materi lengkap <i>Kerajaan Hindu</i>\nMateri yang disajikan diantaranya:\na. Sejarah\nb.Raja\nc. Peninggalan\n3. Menu Kuis\nMenu ini berisi pertanyaan untuk menguji tingkat pemahaman siswa pada materi <i>Kerjaan Hindu</i>. Ada 10 soal kuis yang disediakan.\n \n4. Menu Info\nMenu ini berisi informasi spesifikasi minimum aplikasi, penjelasan menu, cara pengerjaan kuis, dan informasi pengembang.</string>
     <string name="info_kuis">Pada menu kuis disediakan 10 soal pilihan ganda dengan 4 pilihan jawaban</string>
     <string name="info_kuis1">Setelah setelah mengerjakan kuis hasil niai akan ditampilkan</string>
     <string name="info_pengembang">Windy Apriliana Pratiwi\nS1 Pendidikan Guru Sekolah Dasar\nFakultas Ilmu Pendidikan\nUniversitan Negeri Malang</string>
