@@ -5,12 +5,12 @@
     <string name="title_kuis">Kuis</string>
     <string name="title_info">Info</string>
     Sejarah
-    <string name="sejarahkutai">Kerajaan Kutai berdiri pada tahun 400 Masehi, kerajaan ini adalah kerajaan Hindu tertua di Indonesia.\nKerajaan Kutai terletak di Pulau Kalimantan, tepatnya di tepi Sungai Mahakam, Kabupaten Muarakaman, Kalimantan Timur</string>
-    <string name="sejarahkediri"></string>
+    <string name="sejarahkutai"><b>Kerajaan Kutai</b> berdiri pada tahun 400 Masehi, kerajaan ini adalah kerajaan Hindu tertua di Indonesia. Kerajaan Kutai terletak di Pulau Kalimantan, tepatnya di tepi sungai Mahakam, Kabupaten Muarakaman, Kalimantan Timur</string>
+    <string name="sejarahkediri"><b>Kerajaan Kediri</b> terletak di tepi sungai Brantas, Kabupaten Kediri, Jawa Timur. Kerajaan ini mulai dikenal sejak pemerintahan Raja Bameswara tahun 1117 Masehi. Raja Kerajaan Kediri yang terkenal yaitu Jayabaya.</string>
     <string name="sejarahmajapahit">Info</string>
     <string name="sejarahmataram">Info</string>
     <string name="sejarahsingasari">Info</string>
-    <string name="sejarahtarumanegara">Info</string>
+    <string name="sejarahtarumanegara"><b>Kerajaan Tarumanegara</b> terletak di dekat aliran sungai Citarum, Bogor, Jawa Barat. Kerajaan ini berdiri pada tahun 450 Masehi. Rakyat  Kerajaan Tarumanegara hidup aman dan tenteram dengan pertanian, peternakan, perikanan, perniagaan menjadi mata pencaharian pokok.</string>
 
     Raja
     <string name="rajakutai">Info</string>
@@ -56,6 +56,7 @@
 
     <string name="kunciallen"><b>KUNCI ALLEN <i>(Allens Keys)</i></b></string>
     <string name="Kutai">Kerajaan Kutai</string>
+    <string name="Tarumanegara">Kerajaan Tarumanegara</string>
     <string name="info_des">Spesifikasi Minimum</string>
     <string name="info_menu">1. Menu Awal/<i>home</i>\nMenu ini berisi penjelasan <i>Kerajaan Hindu</i> dan tujuan penggunaan aplikasi Social Learning\n \n2. Menu Materi\nMenu ini berisi materi lengkap <i>Kerajaan Hindu</i>\nMateri yang disajikan diantaranya:\na. Sejarah\nb.Raja\nc. Peninggalan\n3. Menu Kuis\nMenu ini berisi pertanyaan untuk menguji tingkat pemahaman siswa pada materi <i>Kerjaan Hindu</i>. Ada 10 soal kuis yang disediakan.\n \n4. Menu Info\nMenu ini berisi informasi spesifikasi minimum aplikasi, penjelasan menu, cara pengerjaan kuis, dan informasi pengembang.</string>
     <string name="info_kuis">Pada menu kuis disediakan 10 soal pilihan ganda dengan 4 pilihan jawaban</string>
