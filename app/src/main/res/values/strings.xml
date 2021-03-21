@@ -7,9 +7,9 @@
     Sejarah
     <string name="sejarahkutai"><b>Kerajaan Kutai</b> berdiri pada tahun 400 Masehi, kerajaan ini adalah kerajaan Hindu tertua di Indonesia. Kerajaan Kutai terletak di Pulau Kalimantan, tepatnya di tepi sungai Mahakam, Kabupaten Muarakaman, Kalimantan Timur</string>
     <string name="sejarahkediri"><b>Kerajaan Kediri</b> terletak di tepi sungai Brantas, Kabupaten Kediri, Jawa Timur. Kerajaan ini mulai dikenal sejak pemerintahan Raja Bameswara tahun 1117 Masehi. Raja Kerajaan Kediri yang terkenal yaitu Jayabaya.</string>
-    <string name="sejarahmajapahit">Info</string>
+    <string name="sejarahmajapahit"><b>Kerajaan Majapahit</b> terletak di Jawa Timur. Setelah jatuhnya Kerajaan Singosari, berdirilah Kerajaan Majapahit. Raden Wijaya mendirikan Kerajaan Majapahit tahun 1293 Masehi. Wilayah kekuasaan Majapahit meliputi hampir seluruh Nusantara ditambah Malaka dan Tumasik (Singapura). Kerajaan Majapahit mencapai kejayannya pada masa pemerintahan Hayam Wuruk dengan didampingi Patih Gajah Mada. Kehidupan rakyat Majapahit menjadi aman, damai, hidup makmur.</string>
     <string name="sejarahmataram">Info</string>
-    <string name="sejarahsingasari">Info</string>
+    <string name="sejarahsingasari">Kerajaan Singosari terletak disekitar Singosari, Malang, Jawa Timur. Kerajaan ini pertama kali didirikan oleh Ken Arok tahun 1222. Raja Kertanegara menjadi raja yang terbesar sekaligus raja terakhir Singosari.</string>
     <string name="sejarahtarumanegara"><b>Kerajaan Tarumanegara</b> terletak di dekat aliran sungai Citarum, Bogor, Jawa Barat. Kerajaan ini berdiri pada tahun 450 Masehi. Rakyat  Kerajaan Tarumanegara hidup aman dan tenteram dengan pertanian, peternakan, perikanan, perniagaan menjadi mata pencaharian pokok.</string>
 
     Raja
@@ -55,8 +55,16 @@
     <string name="penggunaan_kunciallen">1. Pilih ukuran kunci sesuai ukuran dan jenis tengah kepala baut\n2. Pasang kunci pada bagian tengah kepala baut sampai pas\n3. Tarik kunci ke arah ke kanan untuk melepaskan dan arah sebaliknya untuk memasang\n</string>
 
     <string name="kunciallen"><b>KUNCI ALLEN <i>(Allens Keys)</i></b></string>
-    <string name="Kutai">Kerajaan Kutai</string>
-    <string name="Tarumanegara">Kerajaan Tarumanegara</string>
+    <string name="Kutai"><b>KERAJAAN KUTAI</b></string>
+    <string name="Tarumanegara"><b>KERAJAAN TARUMANEGARA</b></string>
+    <string name="Kediri"><b>KERAJAAN KEDIRI</b></string>
+    <string name="Singosari"><b>KERAJAAN SINGOSARI</b></string>
+    <string name="Majapahit"><b>KERAJAAN MAJAPAHIT</b></string>
+    <string name="RajaRajaKutai"><b>RAJA-RAJA KERAJAAN KUTAI</b></string>
+    <string name="RajaRajaTarumanegara"><b>RAJA-RAJA KERAJAAN TARUMANEGARA</b></string>
+    <string name="RajaRajaKediri"><b>RAJA-RAJA KERAJAAN KEDIRI</b></string>
+    <string name="RajaRajaSingosari"><b>RAJA-RAJA KERAJAAN SINGOSARI</b></string>
+    <string name="RajaRajaMajapahit"><b>RAJA-RAJA KERAJAAN MAJAPAHIT</b></string>
     <string name="info_des">Spesifikasi Minimum</string>
     <string name="info_menu">1. Menu Awal/<i>home</i>\nMenu ini berisi penjelasan <i>Kerajaan Hindu</i> dan tujuan penggunaan aplikasi Social Learning\n \n2. Menu Materi\nMenu ini berisi materi lengkap <i>Kerajaan Hindu</i>\nMateri yang disajikan diantaranya:\na. Sejarah\nb.Raja\nc. Peninggalan\n3. Menu Kuis\nMenu ini berisi pertanyaan untuk menguji tingkat pemahaman siswa pada materi <i>Kerjaan Hindu</i>. Ada 10 soal kuis yang disediakan.\n \n4. Menu Info\nMenu ini berisi informasi spesifikasi minimum aplikasi, penjelasan menu, cara pengerjaan kuis, dan informasi pengembang.</string>
     <string name="info_kuis">Pada menu kuis disediakan 10 soal pilihan ganda dengan 4 pilihan jawaban</string>
