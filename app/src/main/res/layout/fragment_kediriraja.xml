@@ -42,6 +42,224 @@
                     android:textSize="16sp" />
 
                 <com.github.florent37.expansionpanel.ExpansionHeader
+                    android:id="@+id/sampleHeader19"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    app:expansion_headerIndicator="@id/headerIndicator"
+                    app:expansion_layout="@id/expansionLayout"
+                    app:expansion_toggleOnClick="true">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="48dp"
+                        android:background="@color/yellow3"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginBottom="4dp"
+                            android:elevation="4dp"
+                            android:text="Bameswara (117-1130 Masehi)"
+                            android:textColor="@color/color_darkprime"
+                            android:textSize="16sp"
+                            android:textStyle="bold"
+                            tools:ignore="RelativeOverlap" />
+
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:id="@+id/headerIndicator19"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="16dp"
+                            android:adjustViewBounds="true"
+                            app:srcCompat="@drawable/expansion_header" />
+
+                    </RelativeLayout>
+                </com.github.florent37.expansionpanel.ExpansionHeader>
+                <com.github.florent37.expansionpanel.ExpansionLayout
+                    android:id="@+id/expansionLayout19"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:expansion_expanded="false">
+
+                    <LinearLayout
+                        android:id="@+id/container19"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="-12dp"
+                            android:layout_marginBottom="2dp"
+                            android:background="@drawable/bg_white"
+                            android:elevation="2dp"
+                            android:lineSpacingMultiplier="1.5"
+                            android:paddingStart="8dp"
+                            android:paddingTop="20dp"
+                            android:paddingEnd="8dp"
+                            android:paddingBottom="8dp"
+                            android:text="@string/pengertian_kunciallen"
+                            android:textColor="@color/color_dark"
+                            android:textSize="16sp"/>
+
+                    </LinearLayout>
+                </com.github.florent37.expansionpanel.ExpansionLayout>
+
+                <com.github.florent37.expansionpanel.ExpansionHeader
+                    android:id="@+id/sampleHeader20"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    app:expansion_headerIndicator="@id/headerIndicator4"
+                    app:expansion_layout="@id/expansionLayout4"
+                    app:expansion_toggleOnClick="true">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="48dp"
+                        android:background="@color/yellow3"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginBottom="4dp"
+                            android:elevation="4dp"
+                            android:text="Jayabaya (1135-1157) Masehi)
+"
+                            android:textColor="@color/color_darkprime"
+                            android:textSize="16sp"
+                            android:textStyle="bold"
+                            tools:ignore="RelativeOverlap" />
+
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:id="@+id/headerIndicator20"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="16dp"
+                            android:adjustViewBounds="true"
+                            app:srcCompat="@drawable/expansion_header" />
+
+                    </RelativeLayout>
+                </com.github.florent37.expansionpanel.ExpansionHeader>
+                <com.github.florent37.expansionpanel.ExpansionLayout
+                    android:id="@+id/expansionLayout20"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:expansion_expanded="false">
+
+                    <LinearLayout
+                        android:id="@+id/container20"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="-12dp"
+                            android:layout_marginBottom="2dp"
+                            android:background="@drawable/bg_white"
+                            android:elevation="2dp"
+                            android:lineSpacingMultiplier="1.5"
+                            android:paddingStart="8dp"
+                            android:paddingTop="20dp"
+                            android:paddingEnd="8dp"
+                            android:paddingBottom="8dp"
+                            android:text="@string/penggunaan_kunciallen"
+                            android:textColor="@color/color_dark"
+                            android:textSize="16sp" />
+
+                    </LinearLayout>
+                </com.github.florent37.expansionpanel.ExpansionLayout>
+
+                <com.github.florent37.expansionpanel.ExpansionHeader
+                    android:id="@+id/sampleHeader21"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    app:expansion_headerIndicator="@id/headerIndicator5"
+                    app:expansion_layout="@id/expansionLayout5"
+                    app:expansion_toggleOnClick="true">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="48dp"
+                        android:background="@color/yellow3"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginBottom="4dp"
+                            android:elevation="4dp"
+                            android:text="Sarweswara (1159-1161 Masehi)"
+                            android:textColor="@color/color_darkprime"
+                            android:textSize="16sp"
+                            android:textStyle="bold"
+                            tools:ignore="RelativeOverlap" />
+
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:id="@+id/headerIndicator21"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="16dp"
+                            android:adjustViewBounds="true"
+                            app:srcCompat="@drawable/expansion_header" />
+
+                    </RelativeLayout>
+                </com.github.florent37.expansionpanel.ExpansionHeader>
+                <com.github.florent37.expansionpanel.ExpansionLayout
+                    android:id="@+id/expansionLayout21"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:expansion_expanded="false">
+
+                    <LinearLayout
+                        android:id="@+id/container21"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <androidx.appcompat.widget.AppCompatImageButton
+                            android:id="@+id/button_vid21"
+                            android:layout_width="80dp"
+                            android:layout_height="80dp"
+                            android:layout_gravity="center"
+                            android:padding="16dp"
+                            android:scaleType="fitCenter"
+                            android:src="@drawable/ic_notifications_black_24dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:padding="8dp"
+                            android:text="Play Video"
+                            android:textColor="@color/color_dark" />
+
+                    </LinearLayout>
+                </com.github.florent37.expansionpanel.ExpansionLayout>
+
+                <com.github.florent37.expansionpanel.ExpansionHeader
                     android:id="@+id/sampleHeader"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -63,7 +281,7 @@
                             android:layout_centerVertical="true"
                             android:layout_marginBottom="4dp"
                             android:elevation="4dp"
-                            android:text="Pengertian dan Fungsi"
+                            android:text="Areswara 1159-1161 Masehi)"
                             android:textColor="@color/color_darkprime"
                             android:textSize="16sp"
                             android:textStyle="bold"
@@ -135,7 +353,7 @@
                             android:layout_centerVertical="true"
                             android:layout_marginBottom="4dp"
                             android:elevation="4dp"
-                            android:text="Penggunaan"
+                            android:text="Kronsarayadipagandra (1181 Masehi)"
                             android:textColor="@color/color_darkprime"
                             android:textSize="16sp"
                             android:textStyle="bold"
@@ -186,7 +404,7 @@
                 </com.github.florent37.expansionpanel.ExpansionLayout>
 
                 <com.github.florent37.expansionpanel.ExpansionHeader
-                    android:id="@+id/sampleHeader5"
+                    android:id="@+id/sampleHeader22"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="8dp"
@@ -207,7 +425,7 @@
                             android:layout_centerVertical="true"
                             android:layout_marginBottom="4dp"
                             android:elevation="4dp"
-                            android:text="Video"
+                            android:text="Kameswara (1182 Masehi)"
                             android:textColor="@color/color_darkprime"
                             android:textSize="16sp"
                             android:textStyle="bold"
@@ -215,7 +433,7 @@
 
 
                         <androidx.appcompat.widget.AppCompatImageView
-                            android:id="@+id/headerIndicator5"
+                            android:id="@+id/headerIndicator22"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_alignParentEnd="true"
@@ -227,13 +445,86 @@
                     </RelativeLayout>
                 </com.github.florent37.expansionpanel.ExpansionHeader>
                 <com.github.florent37.expansionpanel.ExpansionLayout
-                    android:id="@+id/expansionLayout5"
+                    android:id="@+id/expansionLayout22"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     app:expansion_expanded="false">
 
                     <LinearLayout
-                        android:id="@+id/container5"
+                        android:id="@+id/container22"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <androidx.appcompat.widget.AppCompatImageButton
+                            android:id="@+id/button_vid22"
+                            android:layout_width="80dp"
+                            android:layout_height="80dp"
+                            android:layout_gravity="center"
+                            android:padding="16dp"
+                            android:scaleType="fitCenter"
+                            android:src="@drawable/ic_notifications_black_24dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:padding="8dp"
+                            android:text="Play Video"
+                            android:textColor="@color/color_dark" />
+
+                    </LinearLayout>
+                </com.github.florent37.expansionpanel.ExpansionLayout>
+
+                <com.github.florent37.expansionpanel.ExpansionHeader
+                    android:id="@+id/sampleHeader23"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    app:expansion_headerIndicator="@id/headerIndicator5"
+                    app:expansion_layout="@id/expansionLayout5"
+                    app:expansion_toggleOnClick="true">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="48dp"
+                        android:background="@color/yellow3"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginBottom="4dp"
+                            android:elevation="4dp"
+                            android:text="Kertajaya (1194-1222 Masehi)"
+                            android:textColor="@color/color_darkprime"
+                            android:textSize="16sp"
+                            android:textStyle="bold"
+                            tools:ignore="RelativeOverlap" />
+
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:id="@+id/headerIndicator23"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="16dp"
+                            android:adjustViewBounds="true"
+                            app:srcCompat="@drawable/expansion_header" />
+
+                    </RelativeLayout>
+                </com.github.florent37.expansionpanel.ExpansionHeader>
+                <com.github.florent37.expansionpanel.ExpansionLayout
+                    android:id="@+id/expansionLayout23"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:expansion_expanded="false">
+
+                    <LinearLayout
+                        android:id="@+id/container23"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:orientation="vertical">
