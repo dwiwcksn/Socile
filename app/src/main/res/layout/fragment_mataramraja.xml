@@ -36,7 +36,7 @@
                     android:background="@color/yellow3"
                     android:paddingTop="16dp"
                     android:paddingBottom="16dp"
-                    android:text="@string/kunciallen"
+                    android:text="@string/RajaRajaMataram"
                     android:textAlignment="center"
                     android:textColor="@color/color_dark"
                     android:textSize="16sp" />
@@ -106,7 +106,7 @@
                             android:paddingTop="20dp"
                             android:paddingEnd="8dp"
                             android:paddingBottom="8dp"
-                            android:text="@string/pengertian_kunciallen"
+                            android:text="@string/rajamataram1"
                             android:textColor="@color/color_dark"
                             android:textSize="16sp"/>
 
@@ -178,7 +178,7 @@
                             android:paddingTop="20dp"
                             android:paddingEnd="8dp"
                             android:paddingBottom="8dp"
-                            android:text="@string/penggunaan_kunciallen"
+                            android:text="@string/rajamataram2"
                             android:textColor="@color/color_dark"
                             android:textSize="16sp" />
 

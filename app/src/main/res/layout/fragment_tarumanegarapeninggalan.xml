@@ -23,23 +23,25 @@
                 android:orientation="vertical"
                 tools:ignore="UselessParent">
 
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="32dp"
+                    android:layout_marginTop="16dp"
+                    android:background="@color/yellow3"
+                    android:paddingTop="16dp"
+                    android:paddingBottom="16dp"
+                    android:text="@string/peninggalantarumanegara"
+                    android:textAlignment="center"
+                    android:textColor="@color/color_dark"
+                    android:textSize="16sp" />
+
                 <androidx.appcompat.widget.AppCompatImageView
                     android:layout_width="match_parent"
                     android:layout_height="168dp"
                     android:layout_marginBottom="8dp"
-                    android:src="@drawable/ic_notifications_black_24dp" />
+                    android:src="@drawable/ciaruteun" />
 
-                <TextView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_marginBottom="16dp"
-                    android:background="@color/yellow3"
-                    android:paddingTop="16dp"
-                    android:paddingBottom="16dp"
-                    android:text="@string/kunciallen"
-                    android:textAlignment="center"
-                    android:textColor="@color/color_dark"
-                    android:textSize="16sp" />
 
                 <com.github.florent37.expansionpanel.ExpansionHeader
                     android:id="@+id/sampleHeader"
@@ -63,7 +65,7 @@
                             android:layout_centerVertical="true"
                             android:layout_marginBottom="4dp"
                             android:elevation="4dp"
-                            android:text="Pengertian dan Fungsi"
+                            android:text="Prasasti Ciareteun"
                             android:textColor="@color/color_darkprime"
                             android:textSize="16sp"
                             android:textStyle="bold"
@@ -106,12 +108,19 @@
                             android:paddingTop="20dp"
                             android:paddingEnd="8dp"
                             android:paddingBottom="8dp"
-                            android:text="@string/pengertian_kunciallen"
+                            android:text="@string/ciareteun"
                             android:textColor="@color/color_dark"
                             android:textSize="16sp"/>
 
                     </LinearLayout>
                 </com.github.florent37.expansionpanel.ExpansionLayout>
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="168dp"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginTop="16dp"
+                    android:src="@drawable/kebonkopi" />
 
                 <com.github.florent37.expansionpanel.ExpansionHeader
                     android:id="@+id/sampleHeader4"
@@ -135,7 +144,7 @@
                             android:layout_centerVertical="true"
                             android:layout_marginBottom="4dp"
                             android:elevation="4dp"
-                            android:text="Penggunaan"
+                            android:text="Prasasti Kebon Kopi"
                             android:textColor="@color/color_darkprime"
                             android:textSize="16sp"
                             android:textStyle="bold"
@@ -178,20 +187,27 @@
                             android:paddingTop="20dp"
                             android:paddingEnd="8dp"
                             android:paddingBottom="8dp"
-                            android:text="@string/penggunaan_kunciallen"
+                            android:text="@string/kebonkopi"
                             android:textColor="@color/color_dark"
                             android:textSize="16sp" />
 
                     </LinearLayout>
                 </com.github.florent37.expansionpanel.ExpansionLayout>
 
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="168dp"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginBottom="8dp"
+                    android:src="@drawable/pasirjaambu" />
+
                 <com.github.florent37.expansionpanel.ExpansionHeader
-                    android:id="@+id/sampleHeader5"
+                    android:id="@+id/sampleHeader32"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="8dp"
-                    app:expansion_headerIndicator="@id/headerIndicator5"
-                    app:expansion_layout="@id/expansionLayout5"
+                    app:expansion_headerIndicator="@id/headerIndicator32"
+                    app:expansion_layout="@id/expansionLayout32"
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
@@ -207,7 +223,7 @@
                             android:layout_centerVertical="true"
                             android:layout_marginBottom="4dp"
                             android:elevation="4dp"
-                            android:text="Video"
+                            android:text="Prasasti Pasir Jambu"
                             android:textColor="@color/color_darkprime"
                             android:textSize="16sp"
                             android:textStyle="bold"
@@ -215,7 +231,7 @@
 
 
                         <androidx.appcompat.widget.AppCompatImageView
-                            android:id="@+id/headerIndicator5"
+                            android:id="@+id/headerIndicator32"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_alignParentEnd="true"
@@ -227,36 +243,349 @@
                     </RelativeLayout>
                 </com.github.florent37.expansionpanel.ExpansionHeader>
                 <com.github.florent37.expansionpanel.ExpansionLayout
-                    android:id="@+id/expansionLayout5"
+                    android:id="@+id/expansionLayout32"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     app:expansion_expanded="false">
 
                     <LinearLayout
-                        android:id="@+id/container5"
+                        android:id="@+id/container32"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:orientation="vertical">
 
-                        <androidx.appcompat.widget.AppCompatImageButton
-                            android:id="@+id/button_vid"
-                            android:layout_width="80dp"
-                            android:layout_height="80dp"
-                            android:layout_gravity="center"
-                            android:padding="16dp"
-                            android:scaleType="fitCenter"
-                            android:src="@drawable/ic_notifications_black_24dp" />
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="-12dp"
+                            android:layout_marginBottom="2dp"
+                            android:background="@drawable/bg_white"
+                            android:elevation="2dp"
+                            android:lineSpacingMultiplier="1.5"
+                            android:paddingStart="8dp"
+                            android:paddingTop="20dp"
+                            android:paddingEnd="8dp"
+                            android:paddingBottom="8dp"
+                            android:text="@string/pasirjambu"
+                            android:textColor="@color/color_dark"
+                            android:textSize="16sp"/>
+
+                    </LinearLayout>
+                </com.github.florent37.expansionpanel.ExpansionLayout>
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="168dp"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginBottom="8dp"
+                    android:src="@drawable/tugu"/>
+
+                <com.github.florent37.expansionpanel.ExpansionHeader
+                    android:id="@+id/sampleHeader33"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    app:expansion_headerIndicator="@id/headerIndicator33"
+                    app:expansion_layout="@id/expansionLayout33"
+                    app:expansion_toggleOnClick="true">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="48dp"
+                        android:background="@color/yellow3"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp">
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_gravity="center_horizontal"
-                            android:padding="8dp"
-                            android:text="Play Video"
-                            android:textColor="@color/color_dark" />
+                            android:layout_centerVertical="true"
+                            android:layout_marginBottom="4dp"
+                            android:elevation="4dp"
+                            android:text="Prasasti Tugu"
+                            android:textColor="@color/color_darkprime"
+                            android:textSize="16sp"
+                            android:textStyle="bold"
+                            tools:ignore="RelativeOverlap" />
+
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:id="@+id/headerIndicator33"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="16dp"
+                            android:adjustViewBounds="true"
+                            app:srcCompat="@drawable/expansion_header" />
+
+                    </RelativeLayout>
+                </com.github.florent37.expansionpanel.ExpansionHeader>
+                <com.github.florent37.expansionpanel.ExpansionLayout
+                    android:id="@+id/expansionLayout33"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:expansion_expanded="false">
+
+                    <LinearLayout
+                        android:id="@+id/container33"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="-12dp"
+                            android:layout_marginBottom="2dp"
+                            android:background="@drawable/bg_white"
+                            android:elevation="2dp"
+                            android:lineSpacingMultiplier="1.5"
+                            android:paddingStart="8dp"
+                            android:paddingTop="20dp"
+                            android:paddingEnd="8dp"
+                            android:paddingBottom="8dp"
+                            android:text="@string/tugu"
+                            android:textColor="@color/color_dark"
+                            android:textSize="16sp" />
 
                     </LinearLayout>
                 </com.github.florent37.expansionpanel.ExpansionLayout>
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="168dp"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginBottom="8dp"
+                    android:src="@drawable/pasirawi" />
+
+                <com.github.florent37.expansionpanel.ExpansionHeader
+                    android:id="@+id/sampleHeader34"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    app:expansion_headerIndicator="@id/headerIndicator34"
+                    app:expansion_layout="@id/expansionLayout34"
+                    app:expansion_toggleOnClick="true">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="48dp"
+                        android:background="@color/yellow3"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginBottom="4dp"
+                            android:elevation="4dp"
+                            android:text="Prasasti Pasir Awi"
+                            android:textColor="@color/color_darkprime"
+                            android:textSize="16sp"
+                            android:textStyle="bold"
+                            tools:ignore="RelativeOverlap" />
+
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:id="@+id/headerIndicator34"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="16dp"
+                            android:adjustViewBounds="true"
+                            app:srcCompat="@drawable/expansion_header" />
+
+                    </RelativeLayout>
+                </com.github.florent37.expansionpanel.ExpansionHeader>
+                <com.github.florent37.expansionpanel.ExpansionLayout
+                    android:id="@+id/expansionLayout34"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:expansion_expanded="false">
+
+                    <LinearLayout
+                        android:id="@+id/container34"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="-12dp"
+                            android:layout_marginBottom="2dp"
+                            android:background="@drawable/bg_white"
+                            android:elevation="2dp"
+                            android:lineSpacingMultiplier="1.5"
+                            android:paddingStart="8dp"
+                            android:paddingTop="20dp"
+                            android:paddingEnd="8dp"
+                            android:paddingBottom="8dp"
+                            android:text="@string/pasirawi"
+                            android:textColor="@color/color_dark"
+                            android:textSize="16sp"/>
+
+                    </LinearLayout>
+                </com.github.florent37.expansionpanel.ExpansionLayout>
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="168dp"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginBottom="8dp"
+                    android:src="@drawable/cianten" />
+
+                <com.github.florent37.expansionpanel.ExpansionHeader
+                    android:id="@+id/sampleHeader35"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    app:expansion_headerIndicator="@id/headerIndicator35"
+                    app:expansion_layout="@id/expansionLayout35"
+                    app:expansion_toggleOnClick="true">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="48dp"
+                        android:background="@color/yellow3"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginBottom="4dp"
+                            android:elevation="4dp"
+                            android:text="Prasasri Muara Cianten"
+                            android:textColor="@color/color_darkprime"
+                            android:textSize="16sp"
+                            android:textStyle="bold"
+                            tools:ignore="RelativeOverlap" />
+
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:id="@+id/headerIndicator35"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="16dp"
+                            android:adjustViewBounds="true"
+                            app:srcCompat="@drawable/expansion_header" />
+
+                    </RelativeLayout>
+                </com.github.florent37.expansionpanel.ExpansionHeader>
+                <com.github.florent37.expansionpanel.ExpansionLayout
+                    android:id="@+id/expansionLayout35"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:expansion_expanded="false">
+
+                    <LinearLayout
+                        android:id="@+id/container35"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="-12dp"
+                            android:layout_marginBottom="2dp"
+                            android:background="@drawable/bg_white"
+                            android:elevation="2dp"
+                            android:lineSpacingMultiplier="1.5"
+                            android:paddingStart="8dp"
+                            android:paddingTop="20dp"
+                            android:paddingEnd="8dp"
+                            android:paddingBottom="8dp"
+                            android:text="@string/cianten"
+                            android:textColor="@color/color_dark"
+                            android:textSize="16sp" />
+
+                    </LinearLayout>
+                </com.github.florent37.expansionpanel.ExpansionLayout>
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="168dp"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginBottom="8dp"
+                    android:src="@drawable/lebak" />
+
+                <com.github.florent37.expansionpanel.ExpansionHeader
+                    android:id="@+id/sampleHeader36"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    app:expansion_headerIndicator="@id/headerIndicator36"
+                    app:expansion_layout="@id/expansionLayout36"
+                    app:expansion_toggleOnClick="true">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="48dp"
+                        android:background="@color/yellow3"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginBottom="4dp"
+                            android:elevation="4dp"
+                            android:text="Prasasti Lebak"
+                            android:textColor="@color/color_darkprime"
+                            android:textSize="16sp"
+                            android:textStyle="bold"
+                            tools:ignore="RelativeOverlap" />
+
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:id="@+id/headerIndicator36"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="16dp"
+                            android:adjustViewBounds="true"
+                            app:srcCompat="@drawable/expansion_header" />
+
+                    </RelativeLayout>
+                </com.github.florent37.expansionpanel.ExpansionHeader>
+                <com.github.florent37.expansionpanel.ExpansionLayout
+                    android:id="@+id/expansionLayout36"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:expansion_expanded="false">
+
+                    <LinearLayout
+                        android:id="@+id/container36"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="-12dp"
+                            android:layout_marginBottom="2dp"
+                            android:background="@drawable/bg_white"
+                            android:elevation="2dp"
+                            android:lineSpacingMultiplier="1.5"
+                            android:paddingStart="8dp"
+                            android:paddingTop="20dp"
+                            android:paddingEnd="8dp"
+                            android:paddingBottom="8dp"
+                            android:text="@string/lebak"
+                            android:textColor="@color/color_dark"
+                            android:textSize="16sp"/>
+
+                    </LinearLayout>
+                </com.github.florent37.expansionpanel.ExpansionLayout>
+
+
 
                 <TextView
                     android:layout_width="match_parent"

@@ -45,12 +45,12 @@ public class MateriFragment extends Fragment {
         MateriAdapter adapter = new MateriAdapter(this, lstMateri);
 
         rv.setAdapter(adapter);
-        lstMateri.add(new Materi("Kutai", "Categories 1", "Description", R.drawable.ic_home_black_24dp));
-        lstMateri.add(new Materi("Tarumanegara", "Categories 2", "Description", R.drawable.ic_home_black_24dp));
-        lstMateri.add(new Materi("Mataram", "Categories 3", "Description", R.drawable.ic_home_black_24dp));
-        lstMateri.add(new Materi("Kediri", "Categories 4", "Description", R.drawable.ic_home_black_24dp));
-        lstMateri.add(new Materi("Singosari", "Categories 5", "Description", R.drawable.ic_home_black_24dp));
-        lstMateri.add(new Materi("Majapahit", "Categories 6", "Description", R.drawable.ic_home_black_24dp));
+        lstMateri.add(new Materi("Kutai", "Categories 1", "Description", R.drawable.i1));
+        lstMateri.add(new Materi("Tarumanegara", "Categories 2", "Description", R.drawable.i2));
+        lstMateri.add(new Materi("Mataram", "Categories 3", "Description", R.drawable.i3));
+        lstMateri.add(new Materi("Kediri", "Categories 4", "Description", R.drawable.i4));
+        lstMateri.add(new Materi("Singosari", "Categories 5", "Description", R.drawable.i5));
+        lstMateri.add(new Materi("Majapahit", "Categories 6", "Description", R.drawable.i6));
         return root;
 
     }

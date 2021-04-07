@@ -5,28 +5,115 @@
     <string name="title_kuis">Kuis</string>
     <string name="title_info">Info</string>
     Sejarah
-    <string name="sejarahkutai"><b>Kerajaan Kutai</b> berdiri pada tahun 400 Masehi, kerajaan ini adalah kerajaan Hindu tertua di Indonesia. Kerajaan Kutai terletak di Pulau Kalimantan, tepatnya di tepi sungai Mahakam, Kabupaten Muarakaman, Kalimantan Timur</string>
-    <string name="sejarahkediri"><b>Kerajaan Kediri</b> terletak di tepi sungai Brantas, Kabupaten Kediri, Jawa Timur. Kerajaan ini mulai dikenal sejak pemerintahan Raja Bameswara tahun 1117 Masehi. Raja Kerajaan Kediri yang terkenal yaitu Jayabaya.</string>
-    <string name="sejarahmajapahit"><b>Kerajaan Majapahit</b> terletak di Jawa Timur. Setelah jatuhnya Kerajaan Singosari, berdirilah Kerajaan Majapahit. Raden Wijaya mendirikan Kerajaan Majapahit tahun 1293 Masehi. Wilayah kekuasaan Majapahit meliputi hampir seluruh Nusantara ditambah Malaka dan Tumasik (Singapura). Kerajaan Majapahit mencapai kejayannya pada masa pemerintahan Hayam Wuruk dengan didampingi Patih Gajah Mada. Kehidupan rakyat Majapahit menjadi aman, damai, hidup makmur.</string>
-    <string name="sejarahmataram">Info</string>
+    <string name="sejarahkutai">Kerajaan Kutai berdiri pada tahun 400 Masehi, kerajaan ini adalah kerajaan Hindu tertua di Indonesia. Kerajaan Kutai terletak di Pulau Kalimantan, tepatnya di tepi sungai Mahakam, Kabupaten Muarakaman, Kalimantan Timur</string>
+    <string name="sejarahkediri">Kerajaan Kediri terletak di tepi sungai Brantas, Kabupaten Kediri, Jawa Timur. Kerajaan ini mulai dikenal sejak pemerintahan Raja Bameswara tahun 1117 Masehi. Raja Kerajaan Kediri yang terkenal yaitu Jayabaya.</string>
+    <string name="sejarahmajapahit">Kerajaan Majapahit terletak di Jawa Timur. Setelah jatuhnya Kerajaan Singosari, berdirilah Kerajaan Majapahit. Raden Wijaya mendirikan Kerajaan Majapahit tahun 1293 Masehi. Wilayah kekuasaan Majapahit meliputi hampir seluruh Nusantara ditambah Malaka dan Tumasik (Singapura). Kerajaan Majapahit mencapai kejayannya pada masa pemerintahan Hayam Wuruk dengan didampingi Patih Gajah Mada. Kehidupan rakyat Majapahit menjadi aman, damai, hidup makmur.</string>
+    <string name="sejarahmataram">Kerajaan Medang (Kerajaan Mataram Kuno atau Kerajaan Mataram Hindu) adalah nama sebuah kerajaan yang berdiri di Jawa Tengah pada abad ke-8, kemudian berpindah ke Jawa Timur pada abad ke-10.\n\nKemunduran Mataram Kuno disebabkan karena kedudukan ibukota kerajaan yang semakin lemah dan tidak menguntungkan lagi antara lain:\n1) Tidak memiliki pelabuhan laut sehinga sulit berhubungan dengan dunia luar\n2) Sering dilanda bencana alam oleh letusan gunung merapi\n3) Mendapat ancaman serangan dari kerajaan Sriwijaya</string>
     <string name="sejarahsingasari">Kerajaan Singosari terletak disekitar Singosari, Malang, Jawa Timur. Kerajaan ini pertama kali didirikan oleh Ken Arok tahun 1222. Raja Kertanegara menjadi raja yang terbesar sekaligus raja terakhir Singosari.</string>
-    <string name="sejarahtarumanegara"><b>Kerajaan Tarumanegara</b> terletak di dekat aliran sungai Citarum, Bogor, Jawa Barat. Kerajaan ini berdiri pada tahun 450 Masehi. Rakyat  Kerajaan Tarumanegara hidup aman dan tenteram dengan pertanian, peternakan, perikanan, perniagaan menjadi mata pencaharian pokok.</string>
+    <string name="sejarahtarumanegara">Kerajaan Tarumanegara terletak di dekat aliran sungai Citarum, Bogor, Jawa Barat. Kerajaan ini berdiri pada tahun 450 Masehi. Rakyat  Kerajaan Tarumanegara hidup aman dan tenteram dengan pertanian, peternakan, perikanan, perniagaan menjadi mata pencaharian pokok.</string>
 
     Raja
-    <string name="rajakutai">Info</string>
-    <string name="rajakediri">Info</string>
-    <string name="rajamajapahit">Info</string>
-    <string name="rajamataram">Info</string>
-    <string name="rajasingasari">Info</string>
-    <string name="rajatarumanegara">Info</string>
+    <string name="rajakutai1">Raja pertama dari kerajaan Kutai ialah Kudungga. Menurut para ahli sejarah, nama raja tersebut adalah nama asli orang Indonesia yang masih belum dipengaruhi budaya dari India.</string>
+    <string name="rajakutai2">Raja Aswawarman menjadi raja kerajaan Kutai dikenal dengan sebutan Dewa Ansuman (Dewa Matahari). Aswawarman merupakan dari keturunan Kudungga. Aswawarman juga dikenal sebagai pendiri kerajaan Kutai sehingga dijuluki dengan gelar wangsakerta, yang berarti pembentuk keluarga.</string>
+    <string name="rajakutai3">Raja Mulawarman merupakan raja terbesar yang paling berpengaruh di kerajaan Kutai sekaligus cucu Kudungga dan anak dari Aswawarman. Masa kejayaan kerajaan Kutai terjadi pada masa kepemimpinan Raja Mulawarman. Salah satu Yupa peninggalan kerajaan Kutai disebutkan Mulawarman sempat memberi hadiah 20.000 ekor sapi kepada para Brahmana. Sehingga, kerajaan Kutai dianggap memiliki peternakan yang sangat maju.</string>
+
+    <string name="rajakediri1">Sri Bameswara adalah raja Kediri yang memerintah sekitar tahun 1117-1130. Nama gelar abhisekanya ialah Sri Maharaja Rakai Sirikan Sri Bameswara Sakalabhuwana Tustikarana Sarwaniwariwirya Parakrama Digjaya Uttunggadewa.</string>
+    <string name="rajakediri2">Pemerintahan raja Jayabaya dianggap sebagai masa kejayaan Kerajaan Kediri. Jayabaya terkenal dengan ramalannya yang disebut Jangka Jayabaya. Ramalan Jayabaya itu diyakini berisi tentang masa depan bangsa Indonesia.</string>
+    <string name="rajakediri3">Raja Sri Sarweswara memerintah pada tahun 1159 – 1161. Raja ini bergelar Sri Maharaja Rakai Sirikan Sri Sarweswara Janardanawatara Wijaya Agrajasama Singhadani Waryawirya Parakrama Digjaya Uttunggadewa.Sri Sarwaswera adalah salah satu raja Kediri yang terkenal sebagai raja yang sangat religius dan juga berbudaya. </string>
+    <string name="rajakediri4">Sri Aryeswara adalah raja Kediri yang berkuasa pada tahun 1171 M. Raja ini bergelar Sri Maharaja Rake Hino Sri Aryeswara Madhusudanawatara Arijamuka. Pemerintahan Sri Aryeswara diketahui dari prasasti Angin, tanggal 23 Maret 1171.</string>
+    <string name="rajakediri5">Raja Sri Gandra berkuasa pada 1811 M. Gelar yang dipangkunya adalah Sri Maharaja Koncaryadipa Handabhuwanapadalaka Parakrama Anindita Digjaya Uttunggadewa Sri Gandra.</string>
+    <string name="rajakediri6">Sri Kameswara adalah raja ketujuh dari Kerajaan KediriMasa pemerintahan raja Sri Kameswara sekitar tahun 1180 M – 1190 M. Raja ini bergelar Sri Maharaja Sri Kameswara Triwikramawatara Aniwariwirya Anindhita Digjaya Uttunggadewa.Di masa pemerintahan Sri Kameswara seni sastra berkembang sangat pesat. Salah satunya adanya Kitab Smaradhana karangan dari Mpu Dharmaja.</string>
+    <string name="rajakediri7">Raja Kertajaya merupakan raja terakhir Kediri yang memimpin sekitar tahun 1194-1222). Akhir pemerintahannya dikarenakan beliau dikalahkan oleh Ken Arok dari Tumapel atau Singhasari, dan menandai berakhirnya masa Kerajaan Kediri.</string>
+
+
+    <string name="rajamajapahit1">Raden Wijaya merupakan keturunan dari Kerajaan Singosari yang melarikan diri saat pemberontakan Jayakatwang. Beliau lalu mendirikan Kerajaan Majapahit. </string>
+    <string name="rajamajapahit2">Jayanagara diangkat menjadi raja muda untuk menggantikan ayahnya, Raden Wijaya. Pada awal pemerintahannya Jayanegara harus menghadapi sisa pemberontakan yang meletus dimasa ayahnya masih hidup. Selain pembrontakan Kuti dan Sumi, Raja Jayanegara diselamatkan oleh pasukan pengawal (Bhayangkari) yang dipimpin oleh Gajah Mada yang kemudian diungsikan ke Desa Bedager.</string>
+    <string name="rajamajapahit3">Bhre Kahuripan merupakan adik perempuannya Jayanegara yang bergelar Tribuanatunggadewi Jayawishnuwardhani. Dari kitab Negarakertagama digambarkan adanya beberapa pemberontakan di masa pemerintahan Ratu Tribuanatunggadewi. Pembrontakan yang paling berbahaya adalah pemberontakan di Sadeng dan Keta pada tahun 1331. Namun pemberontakan itu pemberontakan itu dapat dipadamkan oleh Gajah Mada. Setelah itu Gajah Mada bersumpah di hadapan raja dan para pembesar kerajaan bahwa tidak akan amukti palapa (memakan buah palapa) sebelum dapat menundukan Nusantara.</string>
+    <string name="rajamajapahit4">Kerajaan Majapahit mengalami masa kejayaannya pada kepemimpinan Hayam Wuruk. Beliau naik tahta menggantikan ibunya yaitu Tribhuwana Wijayatunggadewi. Patih Gajah Mada membantu kepemimpinan Hayam wuruk untuk terus memperluas wilayah kekuasaan Majapahit. Patih Gajah Mada mengucapkan sumpah yang terkenal yaitu Sumpah Palapa. Isi sumpah tersebut ialah cita-cita Gajah Mada mempersatukan nusantara dibawah kekuasaan Majapahit.</string>
+    <string name="rajamajapahit5">Tahta kerajaan Majapahit diberikan oleh Hayam Wuruk pada menantunya yang bernama Wikramawardhana (suami dari putri mahkota Kusumawardhani).  Hayam Wuruk memiliki putra yang bernama Bhre Wirabhumi. Namun Bhre Wirabumi bukan anak dari permaisuri sehingga tidak berhak mewarisi tahta Kerajaan Majapahit. </string>
+    <string name="rajamajapahit6">Suhita putra Wikramawardhana ditunjuk oleh Wikramawardhana untuk menggantikan sebagai raja Majapahit. Keputusan ini menimbulkan sengketa antara Wikramawarddhana dan Bhre Wirabhumi hingga terjadi peperangan. Perang dicatat dalam berita Cina Dinasti Ming dan catatan perjalanan Laksamana Cheng-Ho. Bhre Wirabumi terbunuh dan Suhita dapat kembali bertahta sampai dengan wafat tahun 1447.</string>
+    <string name="rajamajapahit7">Suhita digantikan oleh adiknya Bhre Tumapel Dyah Kertawijaya karena tidak memiliki putra. Kertawijaya wafat pada tahun 1451</string>
+    <string name="rajamajapahit8">Kertawijaya digantikan oleh Bhre Pamotan bergelar Sri Rajasawarddhana yang kemudian memindahkan kedudukannya di Keling-Kahuripan karena kondisi pusat kerajaan yang masih dikacaukan oleh perseteruan keluarga yang sebelumnya.</string>
+    <string name="rajamajapahit9">Girishwardhana adalah anak dari Kertawijaya yang sebelumnya memerintah daerah Wengker. Dyah Suryawikrama Girindrawarddhana menaiki tahta kerajaan setelah tiga tahun Majapahit mengalami kekosongan kekuasaan (interregnum).</string>
+    <string name="rajamajapahit10">Girishwardhana digantikan oleh putranya Bhre Pandan Salas/Dyah Suryaprabhawa Sri Singhawikramawarddhana. Konflik kemudian kembali muncul ketika Bhre Kertabhumi menyerbu Majapahit untuk mengambil kekuasaan. Kertabhumi adalah putra bungsu Rajasawarddhana. Suryaprabhawa kemudian menyingkir ke Daha dan memerintah sampai 1474</string>
+    <string name="rajamajapahit11">Dyah Brawijaya merupakan raja terakhir yang diketahui pada masa Kerajaan Majapahit. Girindrawarddhana Dyah Brawijaya menggantikannya Suryaprabhawa namun berkedudukan di Keling, karena pusat kerajaan masih dikuasai oleh Kertabhumi.</string>
+
+    <string name="rajamataram1">Info</string>
+    <string name="rajamataram2">Info</string>
+    <string name="rajamataram3">Info</string>
+    <string name="rajamataram4">Info</string>
+    <string name="rajamataram5">Info</string>
+    <string name="rajamataram6">Info</string>
+
+
+    <string name="rajasingasari1">Sebelum menjadi Kerajaan Singosari, kerajaan ini bernama Tumapel. Salah satu daerah bawahan Kerajaan Kediri. Pada tahun 1222 terjadi perselisihan antara kaum brahmana dan Raja Kertajaya dari Kerajaan Kediri. Para brahmana memilih pindah ke Tumapel dan mencari perlindungan pada Ken Arok yang sedang mempersiapkan pemberontakan terhadap Kediri. Setelah mendapatkan dukungan, Ken Arok menyatakan Tumapel lepas dari Kerajaan Kediri dan menjadi Kerajaan Singosari.</string>
+    <string name="rajasingasari2">Tahun 1227 M Anusapati naik takhta Kerajaan Singhasari. Ia memerintah selama 21 tahun. Akan tetapi, ia belum banyak berbuat untuk pembangunan kerajaan.</string>
+    <string name="rajasingasari3">Raja Tohjaya memerintah tahun 1248 Masehi sesudah Anusapati meninggal. Pemerintahan tidak berlangsung lama, sebab anak Anusapati yakni Ranggawuni ingin membalas kematian sang ayah dan dibantu oleh Mahesa Cempaka serta pengikutnya sehingga akhirnya bisa menjatuhkan Tohjoyo dan memegang Kerajaan tersebut.</string>
+    <string name="rajasingasari4">Ranggawuni Memerintah dari tahun 1248 sampai 1268 Masehi dengan gelar Sri Jaya Wisnuwardana yang di dapat dari Mahesa Cempaka, anak Mahesa Wongateleng yang memang dipersiapkan untuk mempimpin Kerajaan Singasari sebagai penerus atau pengganti dari Ranggawuni. Pada pemerintahan ini menghasilkan kedamaian sampai tahun 1254 Masehi, Kertanegara yang merupakan anak dari Wisnuwardana diangkat menjadi seorang raja muda dan Wisnu Wardana menutup usia dan didharmakan di Jajaghu tahun 1268 Masehi.</string>
+    <string name="rajasingasari5">Raja Kertanegara merupakan raja terakhir yang memerintah Kerajaan Singosari. Masa pemerintahannya dikenal sebagai masa kejayaan Singosari. Kertanegara dipandang sebagai penguasa Jawa pertama yang bertekad untuk menyatukan wilayah nusantara. Namun, sebelum cita-citanya tercapai Kertanegara terbunuh saat pemberontakan Jayakatwang dan Kerajaan Singosari mengalami keruntuhan (Asy’ ari: 2007).</string>
+
+
+    <string name="rajatarumanegara1">Raja Jayasingawarman merupakan pendiri Kerajaan Tarumanegara. Jayasingawarman merupakan seorang pendeta yang beraal dari India. Daerah Jayasingawarman di India diserang dan ditaklukan kerajaan Magadha, sehingga mengungsi ke nusantara dan mendirikan kerjaan Tarumanegara.</string>
+    <string name="rajatarumanegara2">Raja Dharmayawarman ialah raja kedua Kerajaan Tarumanegara mewarisi ayahnya, Jayasingawarman.</string>
+    <string name="rajatarumanegara3">Kerajaan Tarumanegara mencapai puncak kejayannya saat kepemimpinan Raja Purnawarman. Kejayaan kerajaan ini diabadikan dalam prasasti-prasasti yang ditemukan. Purnawarman merupakan raja yang bijaksana, pemberani dan gagah. Kerajaan Tarumanegara juga memperluas kekuasaannya dibawah kepemimpinan Raja Purnawarman. </string>
+    <string name="rajatarumanegara4">Kepemimpinan Purwarman diwariskan kepada putranya yaitu Wisnuwarman yang menjadi raja keempat Kerajaan Tarumanegara</string>
+    <string name="rajatarumanegara5">Indrawarman adalah raja Kerajaan Tarumanagara yang kelima. Mewarisi kekuasaan dari Wisnuwarman pada tahun 455 dan memerintah selama 60 tahun antara tahun-tahun 455 - 515.</string>
+    <string name="rajatarumanegara6">Candrawarman adalah raja Kerajaan Tarumanagara yang keenam. Mewarisi kekuasaan dari Indrawarman pada tahun 515 dan memerintah selama 20 tahun antara tahun-tahun 515 - 535.</string>
+    <string name="rajatarumanegara7">Suryawarman adalah raja Kerajaan Tarumanagara yang ketujuh. Setelah menggantikan ayahnya raja Candrawarman yang meninggal pada tahun 535 dan memerintah selama 26 tahun antara tahun-tahun 535 - 561.</string>
+    <string name="rajatarumanegara8">Kertawarman adalah raja Kerajaan Tarumanagara yang kelapan. Baginda mewarisi ayahnya Suryawarman pada tahun 561 dan memerintah selama 67 tahun antara tahun-tahun 561 - 628.</string>
+    <string name="rajatarumanegara9">Kertawarman kemudian digantikan oleh adiknya, Sudhawarman. Raja Sudhawarman memerintah selama 11 tahun selama 628-239</string>
+    <string name="rajatarumanegara10">Hariwangsawarman memerintah mengantikan ayahnya Sudhawarman. Hariwangsawarman yang beribu India dan dibesarkan di kerajaan Palawa. Didikan India menjadikannya keras dalam memegang aturan kasta. Sehingga Brajagiri yang saat itu memegang jabatan senapati diturunkan pangkatnya menjadi penjaga gerbang keraton. Brajagiri yang sakit hati kemudian membunuh Hariwangsawarman.</string>
+    <string name="rajatarumanegara11">Nagajayawarman adalah raja Kerajaan Tarumanagara yang kesebelas. Menggantikan ayahnya Hariwangsawarman pada tahun 640 dan memerintah selama 26 tahun antara tahun-tahun 640 - 666</string>
+    <string name="rajatarumanegara12">Linggawarma adalah raja Kerajaan Tarumanagara yang keduabelas. Menggantikan ayahnya Nagajayawarma pada tahun 666 dan memerintah selama 3 tahun antara tahun-tahun 666 – 669. Dalam Naskah Wangsakerta, Linggawarman adalah raja terakhir Tarumanagara.</string>
 
     peninggalan
-    <string name="peninggalankutai">Info</string>
-    <string name="peninggalankediri">Info</string>
-    <string name="peninggalanmajapahit">Info</string>
-    <string name="peninggalanmataram">Info</string>
-    <string name="peninggalansingasari">Info</string>
-    <string name="peninggalantarumanegara">Info</string>
+    <string name="peninggalankutai"><b>Peninggalan Kutai</b></string>
+    <string name="yupa">Salah satu bukti bahwa Kerajaan Kutai merupakan kerajaan Hindu tertua yaitu adanya peninggalan Yupa yang menggunakan bahasa sansekerta. Bahasa sansekerta merupakan bahasa Hindu asli. Berdasarkan Yupa yang ditemukan diketahui bahwa Kerajaan Kutai pernah diperintah oleh 3 orang raja yaitu Kudungga, Aswawarman , Mulawarman</string>
+
+    <string name="peninggalankediri"><b>Peninggalan Kediri</b></string>
+    <string name="Candipenataran">Candi penataran adalah candi termegah yang ada Jawa Timur. Letak candi Penataran ada di lereng Gunung Kelud bagian Barat Daya, akuratnya berada dibagian utara kota Blitar. Berdasarkan prasasti yang ditemukan di sekitar penggalian candi, terungkap bahwa candi dibangun sekitar abad ke 12 sampai abad ke-14 M atau  pada masa pemerintahan Raja Srengga hingga pemerintahan Raja Wikramawardhana.</string>
+    <string name="Prasastingantang">Prasasti Ngantang berisi tentang pemberian tanah bebas pajak pasa saat kepemimpinan Raja Jayabaya untuk Desa Ngantang, Malang karena telah mengabdi pada Kerajaan Kediri. </string>
+    <string name="PrasastiPandelengan">Prasasti Padelegan berisi tentang bakti yang dilakukan penduduk Desa Padelegan saat kepemimpinan Raja Bameswara. Prasasti ini juga menjadi prasasti pertama Kerajaan Kediri.</string>
+    <string name="KitabKediri">1)Samaradhana yang dikarang Mpu Sedah dan Mpu Panuluh\n2)Kakawin Bhratayuda yang dikarang oleh Mpu Sedah dan Mpu Panuluh\n3)Gatotkaca Sraya yang dikarang oleh Mpu Panuluh\n4)Kakawin Smaradahana yang dikarang oleh Mpu Dharmaja.</string>
+
+    <string name="peninggalanmajapahit"><b>Peninggalan Majapahit</b></string>
+    <string name="SitusTrowulan">Trowulan adalah kawasan kepurbakalaan di wilayah Mojokerto, Jawa Timur. Situs ini dikaitkan sebagai keraton Majapahit yang terdiri atas beberapa bangunan penting seperti Candi Tikus, Gapura Bajang Ratu, Makam Troloyo, Candi Menak Jingga, Kolam Segaran, dan beberapa bangunan lainnya yang dicitrakan sebagai kediaman mewah yang hanya dihuni oleh bangsawan.</string>
+    <string name="Candisukuh">Candi Sukuh adalah sebuah kompleks candi Hindu Hindu yang secara administrasi terletak di wilayah Desa Berjo, Kecamatan Ngargoyoso, Kabupaten Karanganyar, Jawa Tengah. Candi ini dianggap kontroversial karena bentuknya yang kurang lazim dan karena penggambaran bagian tubuh manusia secara vulgar pada beberapa figurnya.</string>
+    <string name="CandiJabung">Candi jabung adalah salah satu candi hindu peninggalan kerajaan Majapahit. Candi hindu ini terletak di Desa Jabung, Kecamatan Paiton, Kabupaten Probolinggo, Jawa Timur. Struktur bangunan candi yang hanya dari bata merah ini mampu bertahan ratusan tahun. Menurut keagamaan, Agama Budha dalam kitab Nagarakertagama Candi Jabung di sebutkan dengan nama Bajrajinaparamitapura. Dalam kitab Nagarakertagama candi Jabung dikunjungi oleh Raja Hayam Wuruk pada lawatannya keliling Jawa Timur pada tahun 1359 Masehi. Pada kitab Pararaton disebut Sajabung yaitu tempat pemakaman Bhre Gundal salah seorang keluarga raja.</string>
+    <string name="CandiCetho">Merupakan candi bercorak agama Hindu yang diduga kuat dibangun pada masa-masa akhir era Majapahit (abad ke-15 Masehi). Lokasi candi berada di lereng Gunung Lawu pada ketinggian 1496 m di atas permukaan laut, dan secara administratif berada di Dusun Ceto, Desa Gumeng, Kecamatan Jenawi, Kabupaten Karanganyar.</string>
+    <string name="KitabMajapahit">1)Sutasoma dikarang oleh Empu Tantular\n2)Nagarakrtagama dikarang oleh Empu Prapanca pada tahun 1365 M\n3)Pararaton berisikan tentang kejadian-kejadian penting pada masa keemasan Kerajaan Singasari dan Kerajaan Majapahit.</string>
+    <string name="canditikus">Candi Tikus adalah sebuah peninggalan dari kerajaan yang bercorak hindu yang terletak di Kompleks Trowulan, tepatnya di dukuh Dinuk, Desa Temon, Kecamatan Trowulan, Kabupaten Mojokerto, Jawa Timur. Nama ‘Tikus’ hanya merupakan sebutan yang digunakan masyarakat setempat. Konon, pada saat ditemukan, tempat Candi tersebut berada merupakan sarang tikus.</string>
+
+    <string name="Peninggalanmataram"><b>Peninggalan Mataram Kuno</b></string>
+    <string name="canggal">Prasasti ini disebut juga Prasasti Gunung Wukir atau Prasasti Sanjaya (732 M). Benda ini ditemukan di halaman Candi Gunung Wukir, Desa Kadiluwih, Salam, Magelang, Jawa Tengah. Prasasti ini memakai bahasa Pallawa dan Sansekerta</string>
+    <string name="prambanan">Candi Prambanan adalah kompleks candi Hindu terbesar di Indonesia yang dibangun pada abad ke-9 masehi. Candi ini dipersembahkan untuk Trimurti, tiga dewa utama Hindu yaitu Brahma sebagai dewa pencipta, Wisnu sebagai dewa pemelihara, dan Siwa sebagai dewa pemusnah.\nBerdasarkan prasasti Siwagrha nama asli kompleks candi ini adalah Siwagrha (bahasa Sanskerta yang bermakna Rumah Siwa ), dan memang di garbagriha (ruang utama) candi ini bersemayam arca Siwa Mahadewa setinggi tiga meter yang menujukkan bahwa di candi ini dewa Siwa lebih diutamakan.</string>
+
+
+    <string name="peninggalansingasari"><b>Peninggalan Singosari</b></string>
+    <string name="singosari">Candi ini terletak di Singosari, Malang, Jawa Timur. Candi ini merupakan makam dari Kertanegara</string>
+    <string name="kidal">Candi Kidal terletak di sebelah tenggara Kota Malang, candi ini merupakan makam Anusapati</string>
+    <string name="paramita">Arca prajnaparamita merupakan arca yang digunkan sebagai pemujaan terhadap Ken Dedes istri Ken Arok.</string>
+    <string name="manjusri">Peninggalan Kerajaan Singasari yang selanjutnya adalah prasasti manjusri. Ini merupakan manuskrip yang di pahat di bagian belakang Arca Manjusri 1343 dan ditempatkan pada candi Jago namun sekarang sudah di simpan pada Museum Nasional.</string>
+    <string name="sumberawan">Candi Sumberawan ini berbentuk stupa yang ada di Desa Toyomarto, Kecamatan Singosari, Kabupaten Malang, Jawa Timur. Candi ini ditemukan pada tahun 1904.</string>
+    <string name="wurare">Peninggalan Kerajaan Singasari selanjutnya adalah prasasti wurare. Ini merupakan prasasti dengan isi peringatan penobatan arca Mahaksobhaya pada sebuah daerah bernama Wurare sehingga parasasti ini disebut dengan Prasasti Wuware.</string>
+    <string name="jago">Candi Jago atau Candi Jajaghu terletadi di dekat Malang, Jawa Timur</string>
+    <string name="jawi">Candi Jawi dengan nama asli Jajawa dibangun sekitar abad ke-13 ini adalah peninggalan sejarah Hindu Buddha Kerajaan Singhasari yang ada di kaki Gunung Welirang, Desa Candi Wates, kecamatan Prigen, Pasuruan, Jawa Timur.</string>
+    <string name="kagenengan">Candi Kagenengan terletak di sebelah selatan Singosari. Candi ini merupakan makam Ken Arok</string>
+    <string name="dwarapala">Arca Dwarapala adalah sebuah patung penjaga gerbang dalam ajaran Siwa dan juga Buddha dengan bentuk manusia terlihat seperti monster. Dwarapala diletakkan pada bagian luar candi, kuil atau bangunan lainnya sebagai pelindung dari tempat suci.</string>
+
+
+
+    <string name="peninggalantarumanegara"><b>Peninggalan Tarumanegara</b></string>
+    <string name="ciareteun">Prasasti ini terletak di tepi Sungai Citarum, Bogor. Prasasti ini dipahatkan telapak kaki Raja Purnawarman sebagai wujud kecintaan rakyat Kerajaan Tarumanegara.</string>
+    <string name="kebonkopi">Prasasti Kebon Kopi ditemukan di Kampung Muara Hilir, Kecamatan Cibungbulang, Bogor. Prasasti ini terdapat pahatan gambar tapak kaki gajah yang disamakan dengan tapak kaki gajah Airawata (gajah kendaraan Dewa Wisnu).</string>
+    <string name="pasirjambu">Prasasti Jambu ditemukan di perkebunan Jambu, Bukit Koleangkok sekitar 30 km sebelah barat Bogor. Prasasti ini menerangkan bahwa Raja Purnawaman itu pemimpin yang termasyhur, dan gagah.</string>
+    <string name="tugu">Prasasti Tugu terletak di Desa Tugu, Cilincing Jakarta. Prasasti ini berisi mengenai pembangunan saluran air sepanjang 6.112 tombak atau sekitar 11 km. Aliran air itu diberi nama Gomati.</string>
+    <string name="pasirawi">Prasasti Pasir Awi ditemukan di daerah Bogor, prasasti ini belum bisa dibaca oleh para ahli. </string>
+    <string name="cianten">Prasasti Muara Cianten ditemukan di sungai Cisadane, Bogor. Prasasti ini belum bisa dibaca oleh para ahli.</string>
+    <string name="lebak">Prasasti Lebak ditemukan di tepi Sungai Cidanghiang, Kecamatan Muncul, Banten Selatan. Prasasti ini berisi tentang keagungan, keberanian, dan keperwiraan kepemimpinan Raja Purnawaman.</string>
+
+
+
 
     <string name="title_activity_bottom">MainActivity</string>
     <string name="title_dashboard">Dashboard</string>
@@ -38,38 +125,31 @@
     <string name="tujuan_hero">Tujuan Penggunaan Aplikasi</string>
     <string name="des_tujuan_hero">1. Mempermudah Proses Pembelajaran\n2. Meningkatkan Efisiensi Proses Pembelajaran\n3. Menjadi Media Belajar Mandiri</string>
     <string name="kompetensi">Kerajaan Hindu</string>
-    <string name="kerajaanhindu">Kerajaan Hindu adalah blablabla</string>
-    <!-- TODO: Remove or change this placeholder text -->
+    <string name="kerajaanhindu">Kerajaan Hindu adalah Kerajaan yang menganut agama Hindu Sebagai Kepercayaannya.</string>
+
+
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
-
-    <string name="videokutai">R19OFo8Wivs</string>
-    <string name="videotarumanegara">R19OFo8Wivs</string>
-    <string name="videomataram">R19OFo8Wivs</string>
-    <string name="videokediri">R19OFo8Wivs</string>
-    <string name="videosingasari">R19OFo8Wivs</string>
-    <string name="videomajapahit">R19OFo8Wivs</string>
-
-
-    <string name="pengertian_kunciallen">Kunci allen dibuat dari baja heksagonal high tensile berbentuk huruf ”L” dan berbentuk huruf ”T”. Untuk melepaskan dan mengganti mur/sekrup dengan tengah kepala berbentuk segi enam <i>(Allen headed cap)</i></string>
-    <string name="penggunaan_kunciallen">1. Pilih ukuran kunci sesuai ukuran dan jenis tengah kepala baut\n2. Pasang kunci pada bagian tengah kepala baut sampai pas\n3. Tarik kunci ke arah ke kanan untuk melepaskan dan arah sebaliknya untuk memasang\n</string>
-
-    <string name="kunciallen"><b>KUNCI ALLEN <i>(Allens Keys)</i></b></string>
     <string name="Kutai"><b>KERAJAAN KUTAI</b></string>
     <string name="Tarumanegara"><b>KERAJAAN TARUMANEGARA</b></string>
     <string name="Kediri"><b>KERAJAAN KEDIRI</b></string>
     <string name="Singosari"><b>KERAJAAN SINGOSARI</b></string>
     <string name="Majapahit"><b>KERAJAAN MAJAPAHIT</b></string>
-    <string name="RajaRajaKutai"><b>RAJA-RAJA KERAJAAN KUTAI</b></string>
-    <string name="RajaRajaTarumanegara"><b>RAJA-RAJA KERAJAAN TARUMANEGARA</b></string>
-    <string name="RajaRajaKediri"><b>RAJA-RAJA KERAJAAN KEDIRI</b></string>
-    <string name="RajaRajaSingosari"><b>RAJA-RAJA KERAJAAN SINGOSARI</b></string>
-    <string name="RajaRajaMajapahit"><b>RAJA-RAJA KERAJAAN MAJAPAHIT</b></string>
+    <string name="Mataram"><b>KERAJAAN MATARAM</b></string>
+
+
+    <string name="RajaRajaKutai"><b>RAJA KERAJAAN KUTAI</b></string>
+    <string name="RajaRajaTarumanegara"><b>RAJA KERAJAAN TARUMANEGARA</b></string>
+    <string name="RajaRajaKediri"><b>RAJA KERAJAAN KEDIRI</b></string>
+    <string name="RajaRajaSingosari"><b>RAJA KERAJAAN SINGOSARI</b></string>
+    <string name="RajaRajaMajapahit"><b>RAJA KERAJAAN MAJAPAHIT</b></string>
+    <string name="RajaRajaMataram"><b>RAJA KERAJAAN MATARAM</b></string>
+
+
     <string name="info_des">Spesifikasi Minimum</string>
     <string name="info_menu">1. Menu Awal/<i>home</i>\nMenu ini berisi penjelasan <i>Kerajaan Hindu</i> dan tujuan penggunaan aplikasi Social Learning\n \n2. Menu Materi\nMenu ini berisi materi lengkap <i>Kerajaan Hindu</i>\nMateri yang disajikan diantaranya:\na. Sejarah\nb.Raja\nc. Peninggalan\n3. Menu Kuis\nMenu ini berisi pertanyaan untuk menguji tingkat pemahaman siswa pada materi <i>Kerjaan Hindu</i>. Ada 10 soal kuis yang disediakan.\n \n4. Menu Info\nMenu ini berisi informasi spesifikasi minimum aplikasi, penjelasan menu, cara pengerjaan kuis, dan informasi pengembang.</string>
     <string name="info_kuis">Pada menu kuis disediakan 10 soal pilihan ganda dengan 4 pilihan jawaban</string>
     <string name="info_kuis1">Setelah setelah mengerjakan kuis hasil niai akan ditampilkan</string>
     <string name="info_pengembang">Windy Apriliana Pratiwi\nS1 Pendidikan Guru Sekolah Dasar\nFakultas Ilmu Pendidikan\nUniversitan Negeri Malang</string>
-
 
 </resources>

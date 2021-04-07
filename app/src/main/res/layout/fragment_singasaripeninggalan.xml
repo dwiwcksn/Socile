@@ -23,11 +23,6 @@
                 android:orientation="vertical"
                 tools:ignore="UselessParent">
 
-                <androidx.appcompat.widget.AppCompatImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="168dp"
-                    android:layout_marginBottom="8dp"
-                    android:src="@drawable/ic_notifications_black_24dp" />
 
                 <TextView
                     android:layout_width="match_parent"
@@ -36,10 +31,17 @@
                     android:background="@color/yellow3"
                     android:paddingTop="16dp"
                     android:paddingBottom="16dp"
-                    android:text="@string/kunciallen"
+                    android:text="@string/peninggalansingasari"
                     android:textAlignment="center"
                     android:textColor="@color/color_dark"
                     android:textSize="16sp" />
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="168dp"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginBottom="8dp"
+                    android:src="@drawable/kidal" />
 
                 <com.github.florent37.expansionpanel.ExpansionHeader
                     android:id="@+id/sampleHeader"
@@ -63,7 +65,7 @@
                             android:layout_centerVertical="true"
                             android:layout_marginBottom="4dp"
                             android:elevation="4dp"
-                            android:text="Pengertian dan Fungsi"
+                            android:text="Candi Kidal"
                             android:textColor="@color/color_darkprime"
                             android:textSize="16sp"
                             android:textStyle="bold"
@@ -106,13 +108,19 @@
                             android:paddingTop="20dp"
                             android:paddingEnd="8dp"
                             android:paddingBottom="8dp"
-                            android:text="@string/pengertian_kunciallen"
+                            android:text="@string/kidal"
                             android:textColor="@color/color_dark"
                             android:textSize="16sp"/>
 
                     </LinearLayout>
                 </com.github.florent37.expansionpanel.ExpansionLayout>
 
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="168dp"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginTop="16dp"
+                    android:src="@drawable/candisingosari" />
                 <com.github.florent37.expansionpanel.ExpansionHeader
                     android:id="@+id/sampleHeader4"
                     android:layout_width="match_parent"
@@ -135,7 +143,7 @@
                             android:layout_centerVertical="true"
                             android:layout_marginBottom="4dp"
                             android:elevation="4dp"
-                            android:text="Penggunaan"
+                            android:text="Candi Singosari"
                             android:textColor="@color/color_darkprime"
                             android:textSize="16sp"
                             android:textStyle="bold"
@@ -178,20 +186,26 @@
                             android:paddingTop="20dp"
                             android:paddingEnd="8dp"
                             android:paddingBottom="8dp"
-                            android:text="@string/penggunaan_kunciallen"
+                            android:text="@string/singosari"
                             android:textColor="@color/color_dark"
                             android:textSize="16sp" />
 
                     </LinearLayout>
                 </com.github.florent37.expansionpanel.ExpansionLayout>
 
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="168dp"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginBottom="8dp"
+                    android:src="@drawable/jago" />
                 <com.github.florent37.expansionpanel.ExpansionHeader
-                    android:id="@+id/sampleHeader5"
+                    android:id="@+id/sampleHeader43"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="8dp"
-                    app:expansion_headerIndicator="@id/headerIndicator5"
-                    app:expansion_layout="@id/expansionLayout5"
+                    app:expansion_headerIndicator="@id/headerIndicator43"
+                    app:expansion_layout="@id/expansionLayout43"
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
@@ -207,7 +221,7 @@
                             android:layout_centerVertical="true"
                             android:layout_marginBottom="4dp"
                             android:elevation="4dp"
-                            android:text="Video"
+                            android:text="Candi Jago"
                             android:textColor="@color/color_darkprime"
                             android:textSize="16sp"
                             android:textStyle="bold"
@@ -215,7 +229,7 @@
 
 
                         <androidx.appcompat.widget.AppCompatImageView
-                            android:id="@+id/headerIndicator5"
+                            android:id="@+id/headerIndicator43"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_alignParentEnd="true"
@@ -227,36 +241,582 @@
                     </RelativeLayout>
                 </com.github.florent37.expansionpanel.ExpansionHeader>
                 <com.github.florent37.expansionpanel.ExpansionLayout
-                    android:id="@+id/expansionLayout5"
+                    android:id="@+id/expansionLayout43"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     app:expansion_expanded="false">
 
                     <LinearLayout
-                        android:id="@+id/container5"
+                        android:id="@+id/container43"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:orientation="vertical">
 
-                        <androidx.appcompat.widget.AppCompatImageButton
-                            android:id="@+id/button_vid"
-                            android:layout_width="80dp"
-                            android:layout_height="80dp"
-                            android:layout_gravity="center"
-                            android:padding="16dp"
-                            android:scaleType="fitCenter"
-                            android:src="@drawable/ic_notifications_black_24dp" />
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="-12dp"
+                            android:layout_marginBottom="2dp"
+                            android:background="@drawable/bg_white"
+                            android:elevation="2dp"
+                            android:lineSpacingMultiplier="1.5"
+                            android:paddingStart="8dp"
+                            android:paddingTop="20dp"
+                            android:paddingEnd="8dp"
+                            android:paddingBottom="8dp"
+                            android:text="@string/jago"
+                            android:textColor="@color/color_dark"
+                            android:textSize="16sp"/>
+
+                    </LinearLayout>
+                </com.github.florent37.expansionpanel.ExpansionLayout>
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="168dp"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginBottom="8dp"
+                    android:src="@drawable/kagenengan" />
+                <com.github.florent37.expansionpanel.ExpansionHeader
+                    android:id="@+id/sampleHeader44"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    app:expansion_headerIndicator="@id/headerIndicator44"
+                    app:expansion_layout="@id/expansionLayout44"
+                    app:expansion_toggleOnClick="true">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="48dp"
+                        android:background="@color/yellow3"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp">
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:layout_gravity="center_horizontal"
-                            android:padding="8dp"
-                            android:text="Play Video"
-                            android:textColor="@color/color_dark" />
+                            android:layout_centerVertical="true"
+                            android:layout_marginBottom="4dp"
+                            android:elevation="4dp"
+                            android:text="Candi Kagenengan"
+                            android:textColor="@color/color_darkprime"
+                            android:textSize="16sp"
+                            android:textStyle="bold"
+                            tools:ignore="RelativeOverlap" />
+
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:id="@+id/headerIndicator44"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="16dp"
+                            android:adjustViewBounds="true"
+                            app:srcCompat="@drawable/expansion_header" />
+
+                    </RelativeLayout>
+                </com.github.florent37.expansionpanel.ExpansionHeader>
+                <com.github.florent37.expansionpanel.ExpansionLayout
+                    android:id="@+id/expansionLayout44"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:expansion_expanded="false">
+
+                    <LinearLayout
+                        android:id="@+id/container44"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="-12dp"
+                            android:layout_marginBottom="2dp"
+                            android:background="@drawable/bg_white"
+                            android:elevation="2dp"
+                            android:lineSpacingMultiplier="1.5"
+                            android:paddingStart="8dp"
+                            android:paddingTop="20dp"
+                            android:paddingEnd="8dp"
+                            android:paddingBottom="8dp"
+                            android:text="@string/kagenengan"
+                            android:textColor="@color/color_dark"
+                            android:textSize="16sp" />
 
                     </LinearLayout>
                 </com.github.florent37.expansionpanel.ExpansionLayout>
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="168dp"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginBottom="8dp"
+                    android:src="@drawable/jawi" />
+                <com.github.florent37.expansionpanel.ExpansionHeader
+                    android:id="@+id/sampleHeader45"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    app:expansion_headerIndicator="@id/headerIndicator45"
+                    app:expansion_layout="@id/expansionLayout45"
+                    app:expansion_toggleOnClick="true">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="48dp"
+                        android:background="@color/yellow3"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginBottom="4dp"
+                            android:elevation="4dp"
+                            android:text="Candi jawi"
+                            android:textColor="@color/color_darkprime"
+                            android:textSize="16sp"
+                            android:textStyle="bold"
+                            tools:ignore="RelativeOverlap" />
+
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:id="@+id/headerIndicator45"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="16dp"
+                            android:adjustViewBounds="true"
+                            app:srcCompat="@drawable/expansion_header" />
+
+                    </RelativeLayout>
+                </com.github.florent37.expansionpanel.ExpansionHeader>
+                <com.github.florent37.expansionpanel.ExpansionLayout
+                    android:id="@+id/expansionLayout45"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:expansion_expanded="false">
+
+                    <LinearLayout
+                        android:id="@+id/container45"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="-12dp"
+                            android:layout_marginBottom="2dp"
+                            android:background="@drawable/bg_white"
+                            android:elevation="2dp"
+                            android:lineSpacingMultiplier="1.5"
+                            android:paddingStart="8dp"
+                            android:paddingTop="20dp"
+                            android:paddingEnd="8dp"
+                            android:paddingBottom="8dp"
+                            android:text="@string/jawi"
+                            android:textColor="@color/color_dark"
+                            android:textSize="16sp"/>
+
+                    </LinearLayout>
+                </com.github.florent37.expansionpanel.ExpansionLayout>
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="168dp"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginBottom="8dp"
+                    android:src="@drawable/sumberawan" />
+                <com.github.florent37.expansionpanel.ExpansionHeader
+                    android:id="@+id/sampleHeader46"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    app:expansion_headerIndicator="@id/headerIndicator46"
+                    app:expansion_layout="@id/expansionLayout46"
+                    app:expansion_toggleOnClick="true">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="48dp"
+                        android:background="@color/yellow3"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginBottom="4dp"
+                            android:elevation="4dp"
+                            android:text="Candi sumberawan"
+                            android:textColor="@color/color_darkprime"
+                            android:textSize="16sp"
+                            android:textStyle="bold"
+                            tools:ignore="RelativeOverlap" />
+
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:id="@+id/headerIndicator46"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="16dp"
+                            android:adjustViewBounds="true"
+                            app:srcCompat="@drawable/expansion_header" />
+
+                    </RelativeLayout>
+                </com.github.florent37.expansionpanel.ExpansionHeader>
+                <com.github.florent37.expansionpanel.ExpansionLayout
+                    android:id="@+id/expansionLayout46"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:expansion_expanded="false">
+
+                    <LinearLayout
+                        android:id="@+id/container46"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="-12dp"
+                            android:layout_marginBottom="2dp"
+                            android:background="@drawable/bg_white"
+                            android:elevation="2dp"
+                            android:lineSpacingMultiplier="1.5"
+                            android:paddingStart="8dp"
+                            android:paddingTop="20dp"
+                            android:paddingEnd="8dp"
+                            android:paddingBottom="8dp"
+                            android:text="@string/sumberawan"
+                            android:textColor="@color/color_dark"
+                            android:textSize="16sp" />
+
+                    </LinearLayout>
+                </com.github.florent37.expansionpanel.ExpansionLayout>
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="168dp"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginBottom="8dp"
+                    android:src="@drawable/wurare" />
+                <com.github.florent37.expansionpanel.ExpansionHeader
+                    android:id="@+id/sampleHeader47"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    app:expansion_headerIndicator="@id/headerIndicator47"
+                    app:expansion_layout="@id/expansionLayout47"
+                    app:expansion_toggleOnClick="true">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="48dp"
+                        android:background="@color/yellow3"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginBottom="4dp"
+                            android:elevation="4dp"
+                            android:text="Prasasti wurare"
+                            android:textColor="@color/color_darkprime"
+                            android:textSize="16sp"
+                            android:textStyle="bold"
+                            tools:ignore="RelativeOverlap" />
+
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:id="@+id/headerIndicator47"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="16dp"
+                            android:adjustViewBounds="true"
+                            app:srcCompat="@drawable/expansion_header" />
+
+                    </RelativeLayout>
+                </com.github.florent37.expansionpanel.ExpansionHeader>
+                <com.github.florent37.expansionpanel.ExpansionLayout
+                    android:id="@+id/expansionLayout47"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:expansion_expanded="false">
+
+                    <LinearLayout
+                        android:id="@+id/container47"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="-12dp"
+                            android:layout_marginBottom="2dp"
+                            android:background="@drawable/bg_white"
+                            android:elevation="2dp"
+                            android:lineSpacingMultiplier="1.5"
+                            android:paddingStart="8dp"
+                            android:paddingTop="20dp"
+                            android:paddingEnd="8dp"
+                            android:paddingBottom="8dp"
+                            android:text="@string/wurare"
+                            android:textColor="@color/color_dark"
+                            android:textSize="16sp"/>
+
+                    </LinearLayout>
+                </com.github.florent37.expansionpanel.ExpansionLayout>
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="168dp"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginBottom="8dp"
+                    android:src="@drawable/manjusri" />
+                <com.github.florent37.expansionpanel.ExpansionHeader
+                    android:id="@+id/sampleHeader48"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    app:expansion_headerIndicator="@id/headerIndicator48"
+                    app:expansion_layout="@id/expansionLayout48"
+                    app:expansion_toggleOnClick="true">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="48dp"
+                        android:background="@color/yellow3"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginBottom="4dp"
+                            android:elevation="4dp"
+                            android:text="Prasasti Manjusri"
+                            android:textColor="@color/color_darkprime"
+                            android:textSize="16sp"
+                            android:textStyle="bold"
+                            tools:ignore="RelativeOverlap" />
+
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:id="@+id/headerIndicator48"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="16dp"
+                            android:adjustViewBounds="true"
+                            app:srcCompat="@drawable/expansion_header" />
+
+                    </RelativeLayout>
+                </com.github.florent37.expansionpanel.ExpansionHeader>
+                <com.github.florent37.expansionpanel.ExpansionLayout
+                    android:id="@+id/expansionLayout48"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:expansion_expanded="false">
+
+                    <LinearLayout
+                        android:id="@+id/container48"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="-12dp"
+                            android:layout_marginBottom="2dp"
+                            android:background="@drawable/bg_white"
+                            android:elevation="2dp"
+                            android:lineSpacingMultiplier="1.5"
+                            android:paddingStart="8dp"
+                            android:paddingTop="20dp"
+                            android:paddingEnd="8dp"
+                            android:paddingBottom="8dp"
+                            android:text="@string/manjusri"
+                            android:textColor="@color/color_dark"
+                            android:textSize="16sp" />
+
+                    </LinearLayout>
+                </com.github.florent37.expansionpanel.ExpansionLayout>
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="168dp"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginBottom="8dp"
+                    android:src="@drawable/dwarapala" />
+                <com.github.florent37.expansionpanel.ExpansionHeader
+                    android:id="@+id/sampleHeader49"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    app:expansion_headerIndicator="@id/headerIndicator49"
+                    app:expansion_layout="@id/expansionLayout49"
+                    app:expansion_toggleOnClick="true">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="48dp"
+                        android:background="@color/yellow3"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginBottom="4dp"
+                            android:elevation="4dp"
+                            android:text="Arca Dwarapala"
+                            android:textColor="@color/color_darkprime"
+                            android:textSize="16sp"
+                            android:textStyle="bold"
+                            tools:ignore="RelativeOverlap" />
+
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:id="@+id/headerIndicator49"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="16dp"
+                            android:adjustViewBounds="true"
+                            app:srcCompat="@drawable/expansion_header" />
+
+                    </RelativeLayout>
+                </com.github.florent37.expansionpanel.ExpansionHeader>
+                <com.github.florent37.expansionpanel.ExpansionLayout
+                    android:id="@+id/expansionLayout49"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:expansion_expanded="false">
+
+                    <LinearLayout
+                        android:id="@+id/container49"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="-12dp"
+                            android:layout_marginBottom="2dp"
+                            android:background="@drawable/bg_white"
+                            android:elevation="2dp"
+                            android:lineSpacingMultiplier="1.5"
+                            android:paddingStart="8dp"
+                            android:paddingTop="20dp"
+                            android:paddingEnd="8dp"
+                            android:paddingBottom="8dp"
+                            android:text="@string/dwarapala"
+                            android:textColor="@color/color_dark"
+                            android:textSize="16sp"/>
+
+                    </LinearLayout>
+                </com.github.florent37.expansionpanel.ExpansionLayout>
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="168dp"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginBottom="8dp"
+                    android:src="@drawable/paramita" />
+                <com.github.florent37.expansionpanel.ExpansionHeader
+                    android:id="@+id/sampleHeader50"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    app:expansion_headerIndicator="@id/headerIndicator50"
+                    app:expansion_layout="@id/expansionLayout50"
+                    app:expansion_toggleOnClick="true">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="48dp"
+                        android:background="@color/yellow3"
+                        android:paddingLeft="16dp"
+                        android:paddingRight="16dp">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginBottom="4dp"
+                            android:elevation="4dp"
+                            android:text="Arca Prajnaparamita"
+                            android:textColor="@color/color_darkprime"
+                            android:textSize="16sp"
+                            android:textStyle="bold"
+                            tools:ignore="RelativeOverlap" />
+
+
+                        <androidx.appcompat.widget.AppCompatImageView
+                            android:id="@+id/headerIndicator50"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginStart="16dp"
+                            android:adjustViewBounds="true"
+                            app:srcCompat="@drawable/expansion_header" />
+
+                    </RelativeLayout>
+                </com.github.florent37.expansionpanel.ExpansionHeader>
+                <com.github.florent37.expansionpanel.ExpansionLayout
+                    android:id="@+id/expansionLayout50"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:expansion_expanded="false">
+
+                    <LinearLayout
+                        android:id="@+id/container50"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="-12dp"
+                            android:layout_marginBottom="2dp"
+                            android:background="@drawable/bg_white"
+                            android:elevation="2dp"
+                            android:lineSpacingMultiplier="1.5"
+                            android:paddingStart="8dp"
+                            android:paddingTop="20dp"
+                            android:paddingEnd="8dp"
+                            android:paddingBottom="8dp"
+                            android:text="@string/paramita"
+                            android:textColor="@color/color_dark"
+                            android:textSize="16sp" />
+
+                    </LinearLayout>
+                </com.github.florent37.expansionpanel.ExpansionLayout>
+
 
                 <TextView
                     android:layout_width="match_parent"

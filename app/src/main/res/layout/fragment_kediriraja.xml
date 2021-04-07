@@ -23,16 +23,11 @@
                 android:orientation="vertical"
                 tools:ignore="UselessParent">
 
-                <androidx.appcompat.widget.AppCompatImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="168dp"
-                    android:layout_marginBottom="8dp"
-                    android:src="@drawable/ic_dashboard_black_24dp" />
-
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="16dp"
+                    android:layout_marginTop="26dp"
                     android:background="@color/yellow3"
                     android:paddingTop="16dp"
                     android:paddingBottom="16dp"
@@ -46,8 +41,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="8dp"
-                    app:expansion_headerIndicator="@id/headerIndicator"
-                    app:expansion_layout="@id/expansionLayout"
+                    app:expansion_headerIndicator="@id/headerIndicator19"
+                    app:expansion_layout="@id/expansionLayout19"
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
@@ -106,7 +101,7 @@
                             android:paddingTop="20dp"
                             android:paddingEnd="8dp"
                             android:paddingBottom="8dp"
-                            android:text="@string/pengertian_kunciallen"
+                            android:text="@string/rajakediri1"
                             android:textColor="@color/color_dark"
                             android:textSize="16sp"/>
 
@@ -118,8 +113,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="8dp"
-                    app:expansion_headerIndicator="@id/headerIndicator4"
-                    app:expansion_layout="@id/expansionLayout4"
+                    app:expansion_headerIndicator="@id/headerIndicator20"
+                    app:expansion_layout="@id/expansionLayout20"
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
@@ -179,7 +174,7 @@
                             android:paddingTop="20dp"
                             android:paddingEnd="8dp"
                             android:paddingBottom="8dp"
-                            android:text="@string/penggunaan_kunciallen"
+                            android:text="@string/rajakediri2"
                             android:textColor="@color/color_dark"
                             android:textSize="16sp" />
 
@@ -191,8 +186,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="8dp"
-                    app:expansion_headerIndicator="@id/headerIndicator5"
-                    app:expansion_layout="@id/expansionLayout5"
+                    app:expansion_headerIndicator="@id/headerIndicator21"
+                    app:expansion_layout="@id/expansionLayout21"
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
@@ -239,22 +234,21 @@
                         android:layout_height="wrap_content"
                         android:orientation="vertical">
 
-                        <androidx.appcompat.widget.AppCompatImageButton
-                            android:id="@+id/button_vid21"
-                            android:layout_width="80dp"
-                            android:layout_height="80dp"
-                            android:layout_gravity="center"
-                            android:padding="16dp"
-                            android:scaleType="fitCenter"
-                            android:src="@drawable/ic_notifications_black_24dp" />
-
                         <TextView
-                            android:layout_width="wrap_content"
+                            android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_gravity="center_horizontal"
-                            android:padding="8dp"
-                            android:text="Play Video"
-                            android:textColor="@color/color_dark" />
+                            android:layout_marginTop="-12dp"
+                            android:layout_marginBottom="2dp"
+                            android:background="@drawable/bg_white"
+                            android:elevation="2dp"
+                            android:lineSpacingMultiplier="1.5"
+                            android:paddingStart="8dp"
+                            android:paddingTop="20dp"
+                            android:paddingEnd="8dp"
+                            android:paddingBottom="8dp"
+                            android:text="@string/rajakediri3"
+                            android:textColor="@color/color_dark"
+                            android:textSize="16sp" />
 
                     </LinearLayout>
                 </com.github.florent37.expansionpanel.ExpansionLayout>
@@ -324,7 +318,7 @@
                             android:paddingTop="20dp"
                             android:paddingEnd="8dp"
                             android:paddingBottom="8dp"
-                            android:text="@string/pengertian_kunciallen"
+                            android:text="@string/rajakediri4"
                             android:textColor="@color/color_dark"
                             android:textSize="16sp"/>
 
@@ -396,7 +390,7 @@
                             android:paddingTop="20dp"
                             android:paddingEnd="8dp"
                             android:paddingBottom="8dp"
-                            android:text="@string/penggunaan_kunciallen"
+                            android:text="@string/rajakediri5"
                             android:textColor="@color/color_dark"
                             android:textSize="16sp" />
 
@@ -408,8 +402,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="8dp"
-                    app:expansion_headerIndicator="@id/headerIndicator5"
-                    app:expansion_layout="@id/expansionLayout5"
+                    app:expansion_headerIndicator="@id/headerIndicator22"
+                    app:expansion_layout="@id/expansionLayout22"
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
@@ -456,22 +450,21 @@
                         android:layout_height="wrap_content"
                         android:orientation="vertical">
 
-                        <androidx.appcompat.widget.AppCompatImageButton
-                            android:id="@+id/button_vid22"
-                            android:layout_width="80dp"
-                            android:layout_height="80dp"
-                            android:layout_gravity="center"
-                            android:padding="16dp"
-                            android:scaleType="fitCenter"
-                            android:src="@drawable/ic_notifications_black_24dp" />
-
                         <TextView
-                            android:layout_width="wrap_content"
+                            android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_gravity="center_horizontal"
-                            android:padding="8dp"
-                            android:text="Play Video"
-                            android:textColor="@color/color_dark" />
+                            android:layout_marginTop="-12dp"
+                            android:layout_marginBottom="2dp"
+                            android:background="@drawable/bg_white"
+                            android:elevation="2dp"
+                            android:lineSpacingMultiplier="1.5"
+                            android:paddingStart="8dp"
+                            android:paddingTop="20dp"
+                            android:paddingEnd="8dp"
+                            android:paddingBottom="8dp"
+                            android:text="@string/rajakediri6"
+                            android:textColor="@color/color_dark"
+                            android:textSize="16sp" />
 
                     </LinearLayout>
                 </com.github.florent37.expansionpanel.ExpansionLayout>
@@ -481,8 +474,8 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="8dp"
-                    app:expansion_headerIndicator="@id/headerIndicator5"
-                    app:expansion_layout="@id/expansionLayout5"
+                    app:expansion_headerIndicator="@id/headerIndicator23"
+                    app:expansion_layout="@id/expansionLayout23"
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
@@ -529,22 +522,21 @@
                         android:layout_height="wrap_content"
                         android:orientation="vertical">
 
-                        <androidx.appcompat.widget.AppCompatImageButton
-                            android:id="@+id/button_vid"
-                            android:layout_width="80dp"
-                            android:layout_height="80dp"
-                            android:layout_gravity="center"
-                            android:padding="16dp"
-                            android:scaleType="fitCenter"
-                            android:src="@drawable/ic_notifications_black_24dp" />
-
                         <TextView
-                            android:layout_width="wrap_content"
+                            android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_gravity="center_horizontal"
-                            android:padding="8dp"
-                            android:text="Play Video"
-                            android:textColor="@color/color_dark" />
+                            android:layout_marginTop="-12dp"
+                            android:layout_marginBottom="2dp"
+                            android:background="@drawable/bg_white"
+                            android:elevation="2dp"
+                            android:lineSpacingMultiplier="1.5"
+                            android:paddingStart="8dp"
+                            android:paddingTop="20dp"
+                            android:paddingEnd="8dp"
+                            android:paddingBottom="8dp"
+                            android:text="@string/rajakediri7"
+                            android:textColor="@color/color_dark"
+                            android:textSize="16sp" />
 
                     </LinearLayout>
                 </com.github.florent37.expansionpanel.ExpansionLayout>

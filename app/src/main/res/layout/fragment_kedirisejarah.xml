@@ -26,8 +26,8 @@
                 <androidx.appcompat.widget.AppCompatImageView
                     android:layout_width="match_parent"
                     android:layout_height="168dp"
-                    android:layout_marginBottom="8dp"
-                    android:src="@drawable/ic_notifications_black_24dp" />
+                    android:layout_marginBottom="16dp"
+                    android:src="@drawable/kediri" />
 
                 <TextView
                     android:layout_width="match_parent"
@@ -36,7 +36,7 @@
                     android:background="@color/yellow3"
                     android:paddingTop="16dp"
                     android:paddingBottom="16dp"
-                    android:text="@string/kunciallen"
+                    android:text="@string/Kediri"
                     android:textAlignment="center"
                     android:textColor="@color/color_dark"
                     android:textSize="16sp" />

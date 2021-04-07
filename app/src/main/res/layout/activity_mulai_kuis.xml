@@ -22,7 +22,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_alignParentStart="true"
-                    android:text="Kuis Klasifikasi Hand Tools"
+                    android:text="Kuis Kerajaan Hindu"
                     android:padding="8dp"
                     android:textSize="20sp" />
                 <TextView

@@ -39,7 +39,7 @@ public class Tabskediri extends AppCompatActivity {
         ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
         adapter.addFrag(new Sejarahkediri(), "Sejarah");
         adapter.addFrag(new Rajakediri(), "Raja-Raja");
-        adapter.addFrag(new peninggalankutai(), "Peninggalan");
+        adapter.addFrag(new peninggalankediri(), "Peninggalan");
 
 
 

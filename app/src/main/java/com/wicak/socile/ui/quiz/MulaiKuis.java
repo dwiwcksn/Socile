@@ -36,43 +36,43 @@ public class MulaiKuis extends AppCompatActivity {
 
     };
     String[] pertanyaan_kuis = new String[]{
-            "Hand Tools adalah ",
-            "Kunci yang penggunannya tidak boleh untuk mengendorkan atau merapatkan baut/mur adalah ",
-            "Saat pelepasan baut selang rem kunci yang digunakan adalah",
-            "Fungsi dari gambar alat dibawah ini adalah",
-            "Alat yang digunakan untuk mengukur celah suatu benda kerja adalah",
-            "Fungsi alat pada gambar dibawah ini adalah",
-            "Tang yang berfungsi untuk melepas pengunci dalam piston adalah",
-            "Saat proses membuka sekrup yang memiliki kekencangan lebih sebaiknya menggunakan",
-            "Tang pada gambar digunakan saat",
-            "Saat proses pembukaan baut tidak ada kunci dengan ukuran yang sesuai, maka alat yang dapat digunakan adalah"
+            "1.Kerajaan Hindu tertua di Indonesia adalah…  ",
+            "2.Prasasti peninggalan Kerajaan Tarumanegara yang terdapat pahatan telapak kaki Raja Purnawarman adalah…",
+            "3.Raja Jayabaya terkenal dengan ramalannya yang disebut…",
+            "4.Candi Hindu terbesar peninggalan Kerajaan Mataram Kuno yaitu…",
+            "5.Kerajaan Singosari pertama kali didirikan oleh…",
+            "6.Isi sumpah Palapa yang diucapkan Patih Gajah Mada adalah…",
+            "7.Letak Kerajaan Kutai berdasarkan gambar di atas, ditunjukkan dengan abjad… ",
+            "8.Peninggalan Kerajaan Singosari yang digunakan sebagai pemujaan terhadap Ken Dedes istri Ken Arok yaitu…",
+            "9.Letak Kerajaan Kediri berdasarkan gambar di atas, ditunjukkan dengan nomor…",
+            "10.Raja terakhir dan menjadi masa kejayaan Kerajaan Singosari yaitu…"
 
     };
 
     String[] pilihan_jawaban = new String[]{
-            "Alat yang penggunaanya membutuhkan bantuan alat tenaga","Alat yang bisa dipakai mekanik","Alat yang penggunaanya menggunakan tangan dari tenaga manusia","Alat yang bida dipegang oleh tangan",
-            "Kunci Pas","Kunci Allen","Kunci Ring","Kunci Nipel",
-            "Kunci Ring","Kunci socket","Kunci Inggris","Kunci Nipel",
-            "Mengukur celah benda","Mengukur tinggi baut","Mengidentifikasi jenis ulir","Mengidentifikasi lebar baut",
-            "Thread Gauge","Feeler Gauge","Allen Key","Pin Punch",
-            "Melepas pin penahan komponen","Pembuka awal pin penahan komponen","Penanda pada komponen","Pengunci pin penahan komponen",
-            "Slip Joint Pliers","Internal Circlip Pliers","External Circlip Pliers","Vice Grip Pliers",
-            "Philips Screwdriver","Slotte Screwdriver","Combination Screwdriver","Impact Screwdriver",
-            "Saat pekerjaan di ruangan sempit","Pekerjaan memotong kabel/kawat","Mencengkeram plat","Membentuk batang besi",
-            "Interlocking Joint Plier","Combination Plier","Shifing Spanner","Flare Nut Spanner"
+            "Kutai","Tarumanegara","Majapahit","Singosari",
+            "Prasasti Jambu","Prasasti Kebon Kopi","Prasasti Ciaruteun","Prasasti Lebak",
+            "Palapa","Jangka Jayabaya","Prasasti Ngantang","Kitab Kakawin Bharatayuda",
+            "Candi Penataran","Candi Prambanan","Candi Jago","Candi Kidal",
+            "Raden Wijaya","Kudungga","Ken Arok","Jaysingawarman",
+            "Cita-cita untuk membuat kehidupan rakyat Majapahit menjadi damai dan sejahtera","Cita-cita Gajah Mada mempersatukan nusantara dibawah kekuasaan Majapahit","Keinginan untuk mengalahkan seluruh kerajaan yang ada di nusantara.","Keinginan menjadi patih yang setia mendampingi Raja Hayam Wuruk",
+            "A","B","C","D",
+            "Candi Singosari","Prasasti Padelegan","Prasasti Tugu","Arca Prajnaparamita",
+            "1","2","3","4",
+            "Kertanegara","Ken Arok","Anusapati","Tohjaya"
     };
 
     String[] jawaban_benar = new String[]{
-            "Alat yang penggunaanya menggunakan tangan dari tenaga manusia",
-            "Kunci Pas",
-            "Kunci Nipel",
-            "Mengidentifikasi jenis ulir",
-            "Feeler Gauge",
-            "Melepas pin penahan komponen",
-            "Internal Circlip Pliers",
-            "Impact Screwdriver",
-            "Saat pekerjaan di ruangan sempit",
-            "Shifing Spanner"
+            "Kutai",
+            "Prasasti Ciaruteun",
+            "Jangka Jayabaya",
+            "Candi Prambanan",
+            "Ken Arok",
+            "Cita-cita Gajah Mada mempersatukan nusantara dibawah kekuasaan Majapahit",
+            "D",
+            "Arca Prajnaparamita",
+            "4",
+            "Kertanegara"
     };
 
     private static final Integer[] img ={
@@ -82,9 +82,9 @@ public class MulaiKuis extends AppCompatActivity {
             R.drawable.rb_a_checked,
             R.drawable.rb_a_checked,
             R.drawable.rb_a_checked,
+            R.drawable.letakkutai,
             R.drawable.rb_a_checked,
-            R.drawable.rb_a_checked,
-            R.drawable.rb_a_checked,
+            R.drawable.letakkediri,
             R.drawable.rb_a_checked
     };
 
