@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:background="@color/colorPrimaryDark"
+    android:background="@drawable/gradientbg"
     tools:context=".ui.materi.kediri.Tabskediri">
 
     <ScrollView
@@ -28,7 +28,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="16dp"
-                    android:background="@drawable/bg_white"
+                    android:background="@drawable/grad"
                     android:paddingTop="16dp"
                     android:paddingBottom="16dp"
                     android:text="@string/peninggalankediri"
@@ -53,7 +53,7 @@
                     <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="48dp"
-                        android:background="@color/yellow3"
+                        android:background="@drawable/grad"
                         android:paddingLeft="16dp"
                         android:paddingRight="16dp">
 
@@ -64,7 +64,7 @@
                             android:layout_marginBottom="4dp"
                             android:elevation="4dp"
                             android:text="Prasasti Padelegan"
-                            android:textColor="@color/color_darkprime"
+                            android:textColor="@color/color_dark"
                             android:textSize="16sp"
                             android:textStyle="bold"
                             tools:ignore="RelativeOverlap" />
@@ -131,7 +131,7 @@
                     <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="48dp"
-                        android:background="@color/yellow3"
+                        android:background="@drawable/grad"
                         android:paddingLeft="16dp"
                         android:paddingRight="16dp">
 
@@ -142,7 +142,7 @@
                             android:layout_marginBottom="4dp"
                             android:elevation="4dp"
                             android:text="Candi Penataran"
-                            android:textColor="@color/color_darkprime"
+                            android:textColor="@color/color_dark"
                             android:textSize="16sp"
                             android:textStyle="bold"
                             tools:ignore="RelativeOverlap" />
@@ -209,7 +209,7 @@
                     <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="48dp"
-                        android:background="@color/yellow3"
+                        android:background="@drawable/grad"
                         android:paddingLeft="16dp"
                         android:paddingRight="16dp">
 
@@ -220,7 +220,7 @@
                             android:layout_marginBottom="4dp"
                             android:elevation="4dp"
                             android:text="Prasasti Ngantang"
-                            android:textColor="@color/color_darkprime"
+                            android:textColor="@color/color_dark"
                             android:textSize="16sp"
                             android:textStyle="bold"
                             tools:ignore="RelativeOverlap" />
@@ -281,7 +281,7 @@
                     <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="48dp"
-                        android:background="@color/yellow3"
+                        android:background="@drawable/grad"
                         android:paddingLeft="16dp"
                         android:paddingRight="16dp">
 
@@ -292,7 +292,7 @@
                             android:layout_marginBottom="4dp"
                             android:elevation="4dp"
                             android:text="Kitab-Kitab"
-                            android:textColor="@color/color_darkprime"
+                            android:textColor="@color/color_dark"
                             android:textSize="16sp"
                             android:textStyle="bold"
                             tools:ignore="RelativeOverlap" />
@@ -342,7 +342,6 @@
                 </com.github.florent37.expansionpanel.ExpansionLayout>
 
 
-
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -351,7 +350,7 @@
                     android:layout_marginEnd="18dp"
                     android:layout_marginBottom="8dp"
                     android:lineSpacingMultiplier="1.25"
-                    android:textColor="@color/color_darkprime"
+                    android:textColor="@color/color_dark"
                     android:textSize="32sp" />
             </LinearLayout>
         </LinearLayout>

@@ -38,8 +38,7 @@ public class Kutai extends Fragment {
 
         View root = inflater.inflate(R.layout.fragment_kutaisejarah, container, false);
 
-        ImageButton button = root.findViewById(R.id.button_vid);
-        ImageButton button_nipel = root.findViewById(R.id.button_vid);
+
 
        // button_nipel.setOnClickListener(new View.OnClickListener() {
          //   @Override

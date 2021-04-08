@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:background="@color/lilac"
+    android:background="@drawable/gradientbg"
     tools:context=".ui.materi.kutai.Tabskutai">
 
     <ScrollView
@@ -26,14 +26,14 @@
                 <androidx.appcompat.widget.AppCompatImageView
                     android:layout_width="match_parent"
                     android:layout_height="168dp"
-                    android:layout_marginBottom="8dp"
+                    android:layout_marginBottom="24dp"
                     android:src="@drawable/kutai" />
 
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="16dp"
-                    android:background="@color/base"
+                    android:background="@drawable/grad"
                     android:paddingTop="16dp"
                     android:paddingBottom="16dp"
                     android:text="@string/Kutai"

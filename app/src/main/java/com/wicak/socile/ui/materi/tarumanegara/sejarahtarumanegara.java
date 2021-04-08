@@ -37,7 +37,6 @@ public class sejarahtarumanegara extends Fragment {
 
         View root = inflater.inflate(R.layout.fragment_tarumanegarasejarah, container, false);
 
-        ImageButton button = root.findViewById(R.id.button_vid);
 
 
         return root;

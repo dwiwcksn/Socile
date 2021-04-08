@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:background="@drawable/bg_white"
+    android:background="@drawable/gradientbg"
     tools:context=".ui.materi.singasari.Tabsingasari">
 
     <ScrollView
@@ -28,7 +28,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="16dp"
-                    android:background="@color/yellow3"
+                    android:background="@drawable/grad"
                     android:paddingTop="16dp"
                     android:paddingBottom="16dp"
                     android:text="@string/peninggalansingasari"
@@ -55,7 +55,7 @@
                     <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="48dp"
-                        android:background="@color/yellow3"
+                        android:background="@drawable/grad"
                         android:paddingLeft="16dp"
                         android:paddingRight="16dp">
 
@@ -133,7 +133,7 @@
                     <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="48dp"
-                        android:background="@color/yellow3"
+                        android:background="@drawable/grad"
                         android:paddingLeft="16dp"
                         android:paddingRight="16dp">
 
@@ -211,7 +211,7 @@
                     <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="48dp"
-                        android:background="@color/yellow3"
+                        android:background="@drawable/grad"
                         android:paddingLeft="16dp"
                         android:paddingRight="16dp">
 
@@ -289,7 +289,7 @@
                     <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="48dp"
-                        android:background="@color/yellow3"
+                        android:background="@drawable/grad"
                         android:paddingLeft="16dp"
                         android:paddingRight="16dp">
 
@@ -367,7 +367,7 @@
                     <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="48dp"
-                        android:background="@color/yellow3"
+                        android:background="@drawable/grad"
                         android:paddingLeft="16dp"
                         android:paddingRight="16dp">
 
@@ -445,7 +445,7 @@
                     <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="48dp"
-                        android:background="@color/yellow3"
+                        android:background="@drawable/grad"
                         android:paddingLeft="16dp"
                         android:paddingRight="16dp">
 
@@ -523,7 +523,7 @@
                     <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="48dp"
-                        android:background="@color/yellow3"
+                        android:background="@drawable/grad"
                         android:paddingLeft="16dp"
                         android:paddingRight="16dp">
 
@@ -601,7 +601,7 @@
                     <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="48dp"
-                        android:background="@color/yellow3"
+                        android:background="@drawable/grad"
                         android:paddingLeft="16dp"
                         android:paddingRight="16dp">
 
@@ -679,7 +679,7 @@
                     <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="48dp"
-                        android:background="@color/yellow3"
+                        android:background="@drawable/grad"
                         android:paddingLeft="16dp"
                         android:paddingRight="16dp">
 
@@ -757,7 +757,7 @@
                     <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="48dp"
-                        android:background="@color/yellow3"
+                        android:background="@drawable/grad"
                         android:paddingLeft="16dp"
                         android:paddingRight="16dp">
 

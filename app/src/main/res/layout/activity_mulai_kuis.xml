@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bg_white"
+    android:background="@drawable/bgmat"
     tools:context=".ui.quiz.MulaiKuis">
     <ScrollView
         android:layout_width="match_parent"
@@ -23,6 +23,7 @@
                     android:layout_height="wrap_content"
                     android:layout_alignParentStart="true"
                     android:text="Kuis Kerajaan Hindu"
+                    android:textColor="@color/white"
                     android:padding="8dp"
                     android:textSize="20sp" />
                 <TextView

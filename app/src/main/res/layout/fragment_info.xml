@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorPrimaryDark">
+    android:background="@drawable/gradientbg">
     <LinearLayout
         android:id="@+id/linearLayout"
         android:layout_width="match_parent"
@@ -20,6 +20,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:paddingTop="8dp"
+            android:background="@color/green1"
             android:text="Informasi"
             android:textAlignment="center"
             android:textColor="@color/white"
@@ -70,6 +71,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_marginTop="-16dp"
+                    android:layout_marginBottom="16dp"
                     android:paddingTop="20dp"
                     android:background="@drawable/bg_white"
                     android:paddingStart="40dp"
@@ -135,7 +137,7 @@
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
-                        android:background="@color/lilac"
+                        android:background="@drawable/grad"
                         android:layout_height="48dp"
                         android:layout_width="match_parent"
                         android:paddingLeft="16dp"
@@ -147,7 +149,7 @@
                             android:layout_width="wrap_content"
                             android:text="1. Penjelasan Menu"
                             android:textStyle="bold"
-                            android:textColor="@color/color_darkprime"
+                            android:textColor="@color/color_dark"
                             android:textSize="16sp"
                             android:elevation="4dp"
                             android:layout_marginBottom="4dp" />
@@ -214,7 +216,7 @@
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
-                        android:background="@color/lilac"
+                        android:background="@drawable/grad"
                         android:layout_height="48dp"
                         android:layout_width="match_parent"
                         android:paddingLeft="16dp"
@@ -226,7 +228,7 @@
                             android:layout_width="wrap_content"
                             android:text="2. Cara Mengerjakan Kuis"
                             android:textStyle="bold"
-                            android:textColor="@color/color_darkprime"
+                            android:textColor="@color/color_dark"
                             android:textSize="16sp"
                             android:elevation="4dp"
                             android:layout_marginBottom="4dp" />
@@ -305,7 +307,7 @@
                     app:expansion_toggleOnClick="true">
 
                     <RelativeLayout
-                        android:background="@color/lilac"
+                        android:background="@drawable/grad"
                         android:layout_height="48dp"
                         android:layout_width="match_parent"
                         android:paddingLeft="16dp"
@@ -318,7 +320,7 @@
                             android:layout_width="wrap_content"
                             android:text="3. Informasi Pengembang"
                             android:textStyle="bold"
-                            android:textColor="@color/color_darkprime"
+                            android:textColor="@color/color_dark"
                             android:textSize="16sp"
                             android:elevation="4dp"
                             android:layout_marginBottom="4dp"
@@ -350,6 +352,7 @@
                         android:layout_width="match_parent"
                         android:background="@drawable/bg_white"
                         android:orientation="vertical">
+
 
                         <TextView
                             android:layout_width="match_parent"

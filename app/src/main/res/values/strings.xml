@@ -38,12 +38,15 @@
     <string name="rajamajapahit10">Girishwardhana digantikan oleh putranya Bhre Pandan Salas/Dyah Suryaprabhawa Sri Singhawikramawarddhana. Konflik kemudian kembali muncul ketika Bhre Kertabhumi menyerbu Majapahit untuk mengambil kekuasaan. Kertabhumi adalah putra bungsu Rajasawarddhana. Suryaprabhawa kemudian menyingkir ke Daha dan memerintah sampai 1474</string>
     <string name="rajamajapahit11">Dyah Brawijaya merupakan raja terakhir yang diketahui pada masa Kerajaan Majapahit. Girindrawarddhana Dyah Brawijaya menggantikannya Suryaprabhawa namun berkedudukan di Keling, karena pusat kerajaan masih dikuasai oleh Kertabhumi.</string>
 
-    <string name="rajamataram1">Info</string>
-    <string name="rajamataram2">Info</string>
-    <string name="rajamataram3">Info</string>
-    <string name="rajamataram4">Info</string>
-    <string name="rajamataram5">Info</string>
-    <string name="rajamataram6">Info</string>
+    <string name="rajamataram1">Sanjaya merupakan raja pertama dan pendiri Kerajaan Mataram Kuno. Sanjaya juga merupakan pendiri Wangsa Sanjaya yang menganut agama Hindu.</string>
+    <string name="rajamataram2">Setelah wafatnya Sanjaya, Mataram Kuno di pimpin oleh Rakai Panangkaran yang menganut agama Budha beraliran Mahayana. Wangsa Syailendra lalu berkuasa di Kerajaan Mataram Kuno</string>
+    <string name="rajamataram3">Rakai Panunggalan berjasa atas sistem kalender Jawa Kuno. Rakai Panunggalan juga selalu menjunjung tinggi ilmu pengetahuan</string>
+    <string name="rajamataram4">Sri Maharaja Rakai Warak adalah raja keempat Kerajaan Medang periode Jawa Tengah (atau lazim disebut Kerajaan Mataram Kuno) yang memerintah sekitar tahun 800-an. Nama ini ditemukan dalam daftar raja-raja Medang dalam prasasti Mantyasih.</string>
+    <string name="rajamataram5">Rakai Garung adalah raja Kerajaan Mataram Kuno dari Wangsa Sanjaya yang berkuasa di Kerajaan Medang antara tahun 819 sampai dengan 838.Dalam Prasasti Mantyasih nama gelarnya ialah Sri Maharaja Rakai Garung Dalam Prasasti Wanua Tengah III (908).</string>
+    <string name="rajamataram6">Rakai Pikatan yang menganut agama Hindu maju menjadi raja setelah menikah dengan Pramodawarhani. Menjadi penanda kembalinya agama Hindu berkuasa di Mataram Kuno</string>
+    <string name="rajamataram7">Sri Maharaja Rakai Kayuwangi Dyah Lokapala Sri Sayyawasanottunggadewa adalah raja ketujuh Kerajaan Medang periode Jawa Tengah (atau lazim disebut Kerajaan Mataram Kuno) yang memerintah tahun 856 – 880.</string>
+    <string name="rajamataram8">Sri Maharaja Rakai Watuhumalang adalah raja kedelapan Kerajaan Medang periode Jawa Tengah yang memerintah tahun 890-898.</string>
+    <string name="rajamataram9">Sri Maharaja Rakai Watukura Dyah Balitung Sri Dharmodaya Mahasambu adalah raja Kerajaan Medang periode Jawa Tengah (atau lazim disebut Kerajaan Mataram Kuno), yang memerintah sekitar tahun 898–910. Wilayah kekuasaannya mencakup Jawa Tengah, Jawa Timur, bahkan Bali.</string>
 
 
     <string name="rajasingasari1">Sebelum menjadi Kerajaan Singosari, kerajaan ini bernama Tumapel. Salah satu daerah bawahan Kerajaan Kediri. Pada tahun 1222 terjadi perselisihan antara kaum brahmana dan Raja Kertajaya dari Kerajaan Kediri. Para brahmana memilih pindah ke Tumapel dan mencari perlindungan pada Ken Arok yang sedang mempersiapkan pemberontakan terhadap Kediri. Setelah mendapatkan dukungan, Ken Arok menyatakan Tumapel lepas dari Kerajaan Kediri dan menjadi Kerajaan Singosari.</string>
@@ -121,7 +124,7 @@
     <string name="title_chat">Chat</string>
     <string name="title_quiz">Quiz</string>
     <string name="judul_hero">Social Learning</string>
-    <string name="des_hero">Aplikasi ini digunakan sebagai media pembelajaran yang dikhususkan untuk siswa SD kelas IV</string>
+    <string name="des_hero">Aplikasi ini digunakan sebagai media pembelajaran materi Kerajaan Hindu yang dikhususkan untuk siswa SD kelas IV</string>
     <string name="tujuan_hero">Tujuan Penggunaan Aplikasi</string>
     <string name="des_tujuan_hero">1. Mempermudah Proses Pembelajaran\n2. Meningkatkan Efisiensi Proses Pembelajaran\n3. Menjadi Media Belajar Mandiri</string>
     <string name="kompetensi">Kerajaan Hindu</string>

@@ -8,17 +8,17 @@
 
     <item
         android:id="@+id/navigation_materi"
-        android:icon="@drawable/ic_notifications_black_24dp"
+        android:icon="@drawable/materi"
         android:title="@string/title_materi" />
 
     <item
         android:id="@+id/navigation_quiz"
-        android:icon="@drawable/next"
+        android:icon="@drawable/kuis"
         android:title="@string/title_kuis" />
 
     <item
         android:id="@+id/navigation_info"
-        android:icon="@drawable/next"
+        android:icon="@drawable/info"
         android:title="@string/title_info" />
 
 </menu>

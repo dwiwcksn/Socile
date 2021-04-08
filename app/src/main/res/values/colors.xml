@@ -15,9 +15,9 @@
 
     <!--Color Scheme 2-->
     <color name="background">#a0a5b9</color>
-    <color name="color_darkprime">#F2FCFF</color>
+    <color name="color_darkprime">#4c4c4c</color>
     <color name="color_light">#4760FF</color>
-    <color name="color_dark">#011627</color>
+    <color name="color_dark">#4c4c4c</color>
 
 
     <color name="red2">#D66D75</color>
