@@ -187,6 +187,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginTop="-12dp"
                             android:layout_marginBottom="8dp"
+                            android:src="@drawable/menu"
                             android:paddingTop="24dp"
                             tools:ignore="ContentDescription" />
                         <TextView
@@ -196,7 +197,6 @@
                             android:padding="8dp"
                             android:textSize="16sp"
                             android:textColor="@color/color_dark"
-
                             android:text="@string/info_menu"/>
 
 
@@ -278,6 +278,7 @@
                         <androidx.appcompat.widget.AppCompatImageView
                             android:layout_width="match_parent"
                             android:layout_height="200dp"
+                            android:src="@drawable/mulaikuis"
                             android:layout_margin="8dp" />
                         <TextView
                             android:layout_width="match_parent"
@@ -290,6 +291,7 @@
                         <androidx.appcompat.widget.AppCompatImageView
                             android:layout_width="match_parent"
                             android:layout_height="200dp"
+                            android:src="@drawable/hasilkuis"
                             android:layout_margin="8dp"
                             android:layout_marginBottom="8dp" />
                     </LinearLayout>
