@@ -6,6 +6,8 @@
     <color name="tabsbg">#5a7392</color>
     <color name="tabsbg1">#EAEFFF</color>
 
+    <color name="info">#90ee90</color>
+
 
     <color name="warna_kulit">#f2f2f2</color>
 
@@ -16,7 +18,7 @@
     <!--Color Scheme 2-->
     <color name="background">#a0a5b9</color>
     <color name="color_darkprime">#4c4c4c</color>
-    <color name="color_light">#4760FF</color>
+    <color name="color_light">#8fcaf7</color>
     <color name="color_dark">#4c4c4c</color>
 
 

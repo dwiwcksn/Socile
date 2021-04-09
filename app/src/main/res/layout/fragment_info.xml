@@ -20,7 +20,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:paddingTop="8dp"
-            android:background="@color/green1"
+            android:background="@color/info"
             android:text="Informasi"
             android:textAlignment="center"
             android:textColor="@color/white"
@@ -353,7 +353,14 @@
                         android:background="@drawable/bg_white"
                         android:orientation="vertical">
 
-
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:layout_width="120dp"
+                            android:layout_height="120dp"
+                            android:layout_marginTop="8dp"
+                            android:layout_marginBottom="8dp"
+                            android:src="@drawable/logo"
+                            android:layout_gravity="center"
+                            />
                         <TextView
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"

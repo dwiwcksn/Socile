@@ -4,6 +4,7 @@
     <string name="title_materi">Materi</string>
     <string name="title_kuis">Kuis</string>
     <string name="title_info">Info</string>
+
     Sejarah
     <string name="sejarahkutai">Kerajaan Kutai berdiri pada tahun 400 Masehi, kerajaan ini adalah kerajaan Hindu tertua di Indonesia. Kerajaan Kutai terletak di Pulau Kalimantan, tepatnya di tepi sungai Mahakam, Kabupaten Muarakaman, Kalimantan Timur</string>
     <string name="sejarahkediri">Kerajaan Kediri terletak di tepi sungai Brantas, Kabupaten Kediri, Jawa Timur. Kerajaan ini mulai dikenal sejak pemerintahan Raja Bameswara tahun 1117 Masehi. Raja Kerajaan Kediri yang terkenal yaitu Jayabaya.</string>
@@ -124,9 +125,9 @@
     <string name="title_chat">Chat</string>
     <string name="title_quiz">Quiz</string>
     <string name="judul_hero">Social Learning</string>
-    <string name="des_hero">Aplikasi ini digunakan sebagai media pembelajaran materi Kerajaan Hindu yang dikhususkan untuk siswa SD kelas IV</string>
+    <string name="des_hero">Aplikasi ini digunakan sebagai bahan ajar materi Kerajaan Hindu yang dikhususkan untuk siswa SD kelas IV</string>
     <string name="tujuan_hero">Tujuan Penggunaan Aplikasi</string>
-    <string name="des_tujuan_hero">1. Mempermudah Proses Pembelajaran\n2. Meningkatkan Efisiensi Proses Pembelajaran\n3. Menjadi Media Belajar Mandiri</string>
+    <string name="des_tujuan_hero">1. Mempermudah Proses Pembelajaran\n2. Meningkatkan Efisiensi Proses Pembelajaran\n3. Menjadi bahan ajat Mandiri</string>
     <string name="kompetensi">Kerajaan Hindu</string>
     <string name="kerajaanhindu">Kerajaan Hindu adalah Kerajaan yang menganut agama Hindu Sebagai Kepercayaannya.</string>
 
@@ -150,7 +151,7 @@
 
 
     <string name="info_des">Spesifikasi Minimum</string>
-    <string name="info_menu">1. Menu Awal/<i>home</i>\nMenu ini berisi penjelasan <i>Kerajaan Hindu</i> dan tujuan penggunaan aplikasi Social Learning\n \n2. Menu Materi\nMenu ini berisi materi lengkap <i>Kerajaan Hindu</i>\nMateri yang disajikan diantaranya:\na. Sejarah\nb.Raja\nc. Peninggalan\n3. Menu Kuis\nMenu ini berisi pertanyaan untuk menguji tingkat pemahaman siswa pada materi <i>Kerjaan Hindu</i>. Ada 10 soal kuis yang disediakan.\n \n4. Menu Info\nMenu ini berisi informasi spesifikasi minimum aplikasi, penjelasan menu, cara pengerjaan kuis, dan informasi pengembang.</string>
+    <string name="info_menu">1. Menu Awal/<i>home</i>\nMenu ini berisi penjelasan <i>Kerajaan Hindu</i> dan tujuan penggunaan aplikasi Social Learning\n \n2. Menu Materi\nMenu ini berisi materi lengkap <i>Kerajaan Hindu</i>\nMateri yang disajikan diantaranya:\na. Sejarah\nb. Raja\nc. Peninggalan\n\n3. Menu Kuis\nMenu ini berisi pertanyaan untuk menguji tingkat pemahaman siswa pada materi <i>Kerjaan Hindu</i>. Ada 10 soal kuis yang disediakan.\n \n4. Menu Info\nMenu ini berisi informasi spesifikasi minimum aplikasi, penjelasan menu, cara pengerjaan kuis, dan informasi pengembang.</string>
     <string name="info_kuis">Pada menu kuis disediakan 10 soal pilihan ganda dengan 4 pilihan jawaban</string>
     <string name="info_kuis1">Setelah setelah mengerjakan kuis hasil niai akan ditampilkan</string>
     <string name="info_pengembang">Windy Apriliana Pratiwi\nS1 Pendidikan Guru Sekolah Dasar\nFakultas Ilmu Pendidikan\nUniversitan Negeri Malang</string>
