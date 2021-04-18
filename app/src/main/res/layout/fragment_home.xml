@@ -80,6 +80,7 @@
                     android:layout_height="wrap_content"
                     android:text="Kompetensi Dasar"
                     android:textColor="@color/color_dark"
+                    android:layout_marginBottom="4dp"
                     android:textSize="16sp"
                     android:textStyle="bold" />
 
@@ -89,6 +90,23 @@
                     android:padding="16dp"
                     android:background="@drawable/bg_white"
                     android:text="@string/kompetensi"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dp"
+                    android:text="Tujuan Pembelajaran"
+                    android:textColor="@color/color_dark"
+                    android:layout_marginBottom="4dp"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="16dp"
+                    android:background="@drawable/bg_white"
+                    android:text="@string/des_tujuan_hero"
                     android:textSize="16sp" />
             </LinearLayout>
 
@@ -106,7 +124,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textStyle="bold"
-                    android:text="Tujuan Pembelajaran"
+                    android:text="Tujuan Penggunaan Aplikasi"
+                    android:layout_marginBottom="4dp"
                     android:textColor="@color/color_dark"
                     android:textSize="16sp" />
                 <LinearLayout
@@ -119,7 +138,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:padding="16dp"
-                        android:text="@string/des_tujuan_hero"
+                        android:text="@string/tujuan_hero"
                         android:textSize="16sp" />
                     <androidx.cardview.widget.CardView
                         android:id="@+id/cv_kasus"
