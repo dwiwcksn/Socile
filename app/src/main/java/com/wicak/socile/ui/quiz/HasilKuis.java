@@ -29,9 +29,9 @@ public class HasilKuis extends AppCompatActivity {
         hasil.setText("Jawaban Benar : "+ MulaiKuis.benar+"\n Jawaban Salah : " + MulaiKuis.salah);
         nilai.setText(""+ MulaiKuis.hasil);
         if (MulaiKuis.hasil >= 70){
-            image.setImageResource(R.drawable.ic_home_black_24dp);
+            image.setImageResource(R.drawable.mood_up);
         }else {
-            image.setImageResource(R.drawable.ic_dashboard_black_24dp);
+            image.setImageResource(R.drawable.mood_bad);
         }
     }
 

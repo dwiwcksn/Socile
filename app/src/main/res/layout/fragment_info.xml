@@ -275,7 +275,7 @@
                             android:textColor="@color/color_dark"
                             android:background="@drawable/bg_white"
                             android:text="@string/info_kuis"/>
-                        <androidx.appcompat.widget.AppCompatImageView
+                        <com.zolad.zoominimageview.ZoomInImageView
                             android:layout_width="match_parent"
                             android:layout_height="200dp"
                             android:src="@drawable/mulaikuis"
@@ -288,7 +288,7 @@
                             android:textSize="16sp"
                             android:textColor="@color/color_dark"
                             android:text="@string/info_kuis1"/>
-                        <androidx.appcompat.widget.AppCompatImageView
+                        <com.zolad.zoominimageview.ZoomInImageView
                             android:layout_width="match_parent"
                             android:layout_height="200dp"
                             android:src="@drawable/hasilkuis"
