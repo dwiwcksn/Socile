@@ -78,16 +78,17 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:textStyle="bold"
-                    android:text="@string/tujuan_hero"
+                    android:text="Kompetensi Dasar"
                     android:textColor="@color/color_dark"
-                    android:textSize="16sp" />
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:padding="16dp"
                     android:background="@drawable/bg_white"
-                    android:text="@string/des_tujuan_hero"
+                    android:text="@string/kompetensi"
                     android:textSize="16sp" />
             </LinearLayout>
 
@@ -105,7 +106,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textStyle="bold"
-                    android:text="@string/kompetensi"
+                    android:text="Tujuan Pembelajaran"
                     android:textColor="@color/color_dark"
                     android:textSize="16sp" />
                 <LinearLayout
@@ -113,11 +114,12 @@
                     android:layout_height="wrap_content"
                     android:orientation="vertical"
                     android:background="@drawable/bg_white">
+
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:padding="16dp"
-                        android:text="@string/kerajaanhindu"
+                        android:text="@string/des_tujuan_hero"
                         android:textSize="16sp" />
                     <androidx.cardview.widget.CardView
                         android:id="@+id/cv_kasus"
