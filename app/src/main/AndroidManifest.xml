@@ -9,9 +9,39 @@
         android:roundIcon="@mipmap/ic_logo_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Socile">
+
+        <activity android:name=".ui.materi.kediri.video.VideoSejarah"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity android:name=".ui.materi.kutai.video.videokutai"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar"
+            />
+
+        <activity android:name=".ui.materi.majapahit.video.videomajapahit"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar"
+            />
+
+        <activity android:name=".ui.materi.mataram.video.videomataram"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar"
+            />
+
+        <activity android:name=".ui.materi.singasari.video.videosingosari"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar"
+            />
+
+        <activity android:name=".ui.materi.tarumanegara.video.videotarumanegara"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar"
+            />
+
         <activity
             android:name=".MainActivity"
-            android:label="@string/app_name"/>
+            android:label="@string/app_name" />
         <activity android:name=".ui.materi.majapahit.MateriKeenam" />
         <activity android:name=".ui.materi.singasari.MateriKelima" />
         <activity android:name=".ui.materi.kediri.MateriEmpat" />
@@ -25,30 +55,29 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".ui.materi.tarumanegara.Tabstarumanegara"
-            android:parentActivityName=".ui.materi.tarumanegara.Tabstarumanegara"
             android:label="Tarumanegara"
+            android:parentActivityName=".ui.materi.tarumanegara.Tabstarumanegara"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".ui.materi.mataram.Tabsmataram"
-            android:parentActivityName=".ui.materi.mataram.Tabsmataram"
             android:label="Mataram"
+            android:parentActivityName=".ui.materi.mataram.Tabsmataram"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".ui.materi.kediri.Tabskediri"
-            android:parentActivityName=".ui.materi.kediri.Tabskediri"
             android:label="Kediri"
+            android:parentActivityName=".ui.materi.kediri.Tabskediri"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".ui.materi.singasari.Tabsingasari"
-            android:parentActivityName=".ui.materi.singasari.Tabsingasari"
             android:label="Singasari"
+            android:parentActivityName=".ui.materi.singasari.Tabsingasari"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".ui.materi.majapahit.Tabsmajapahit"
-            android:parentActivityName=".ui.materi.majapahit.Tabsmajapahit"
             android:label="Majapahit"
+            android:parentActivityName=".ui.materi.majapahit.Tabsmajapahit"
             android:theme="@style/AppTheme.NoActionBar" />
-
         <activity android:name=".ui.quiz.HasilKuis" />
         <activity android:name=".ui.quiz.MulaiKuis" />
         <activity

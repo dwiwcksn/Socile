@@ -1,13 +1,16 @@
 package com.wicak.socile.ui.materi.majapahit;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageButton;
 
 import androidx.fragment.app.Fragment;
 
 import com.wicak.socile.R;
+import com.wicak.socile.ui.materi.majapahit.video.videomajapahit;
 //import com.wicak.sociallearning.ui.materi.kunci.video.VideoAllen;
 //import com.wicak.plito.ui.materi.tang.video.VideoPotong;
 
@@ -38,15 +41,15 @@ public class sejarahmajapahit extends Fragment {
 
         View root = inflater.inflate(R.layout.fragment_majapahitsejarah, container, false);
 
-//        ImageButton button = root.findViewById(R.id.button_vid);
-//
-//        button.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                Intent selesai = new Intent(getActivity(), VideoPotong.class);
-//                startActivity(selesai);
-//            }
-//        });
+        ImageButton button = root.findViewById(R.id.button_vid);
+
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent selesai = new Intent(getActivity(), videomajapahit.class);
+                startActivity(selesai);
+            }
+        });
         return root;
     }
 
