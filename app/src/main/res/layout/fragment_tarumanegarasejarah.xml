@@ -117,7 +117,7 @@
                             android:padding="8dp"
                             android:layout_gravity="center_horizontal"
                             android:textColor="@color/color_dark"
-                            android:text="Play Video"/>
+                            android:text="Youtube Kerajaan Tarumanegara"/>
 
                     </LinearLayout>
                 </com.github.florent37.expansionpanel.ExpansionLayout>
